@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/jkooij/jkooij.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm an Assistant Professor at the [Intelligent Vehicles group](http://intelligent-vehicles.org/) of [TU Delft, The Netherlands](https://www.tudelft.nl/). Our group is part of the [Cognitive Robotics department](https://cor.tudelft.nl/) of the 3ME faculty.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Publications
 
-### Markdown
+You can find an up-to-date list on my [Google Scholar profile](https://scholar.google.nl/citations?user=Uq5KrMoAAAAJ&hl=en).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1.	*Using road topology to improve cyclist path prediction.* E.A.I. Pool, J.F.P. Kooij, D.M. Gavrila, Intelligent Vehicles Symposium (IV), 2017 IEEE, 289-296
 
-```markdown
-Syntax highlighted code block
+2.	*Depth-aware motion magnification.* J.F.P. Kooij, J.C. van Gemert, European Conference on Computer Vision (ECCV) 2016, 467-482
 
-# Header 1
-## Header 2
-### Header 3
+3.	*SenseCap: synchronized data collection with Microsoft Kinect2 and LeapMotion.* J.F.P. Kooij, Proceedings of the 2016 ACM on Multimedia Conference 2016, 1218-1221
 
-- Bulleted
-- List
+4.	*Multi-modal human aggression detection.* J.F.P. Kooij, M.C. Liem, J.D. Krijnders, T.C. Andringa, D.M. Gavrila, Computer Vision and Image Understanding (CVIU) 2016, 144, 106-120
 
-1. Numbered
-2. List
+5.	*Mixture of switching linear dynamics to discover behavior patterns in object tracks.* J.F.P. Kooij, G. Englebienne, D.M. Gavrila, IEEE transactions on pattern analysis and machine intelligence (T-PAMI) 2016, 38 (2), 322-334
 
-**Bold** and _Italic_ and `Code` text
+6.	*A probabilistic framework for joint pedestrian head and body orientation estimation.* F. Flohr, M. Dumitru-Guzu, JFP Kooij, D.M. Gavrila IEEE Transactions on Intelligent Transportation Systems (T-ITS) 2015, 16 (4), 1872-1882
 
-[Link](url) and ![Image](src)
-```
+7.	*Identifying multiple objects from their appearance in inaccurate detections.* J.F.P. Kooij, G. Englebienne, D.M. Gavrila, Computer Vision and Image Understanding (CVIU) 2015, 136, 103-116
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+8.	*Context-based pedestrian path prediction.* J.F.P. Kooij, N. Schneider, F. Flohr, D.M. Gavrila. European Conference on Computer Vision (ECCV) 2014, 618-633
 
-### Jekyll Themes
+9.	*Joint probabilistic pedestrian head and body orientation estimation.* F. Flohr, M. Dumitru-Guzu, J.F.P. Kooij, DM Gavrila. Intelligent Vehicles Symposium (IVS), 2014, 617-622
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jkooij/jkooij.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+10.	*Analysis of pedestrian dynamics from a vehicle perspective.* J.F.P. Kooij, N. Schneider, D.M. Gavrila. Intelligent Vehicles Symposium (IVS), 2014, 1445-1450
 
-### Support or Contact
+11.	*A Non-parametric Hierarchical Model to Discover Behavior Dynamics from Tracks.* J.F.P. Kooij, G. Englebienne, D.M. Gavrila. Proceedings of the European Conference on Computer Vision (ECCV), 2012
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+12.	*The cross-entropy method for policy search in decentralized POMDPs.* F.A. Oliehoek, J.F.P. Kooij, N. Vlassis, Informatica (2008), 32 (4)
+
+13.	*A cross-entropy approach to solving Dec-POMDPs.* F.A. Oliehoek, J.F.P. Kooij, N. Vlassis, Advances in Intelligent and Distributed Computing (2008), 145-154
