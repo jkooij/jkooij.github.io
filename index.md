@@ -15,8 +15,7 @@ I'm an Assistant Professor at the [Intelligent Vehicles group](http://intelligen
 
 ### Vulnerable Road Users (VRU) perception and path prediction for Intelligent Vehicles
 
-
-[![Pedestrian dynamics in camera](/files/iv2014/dynamics_in_camera_example.png)]
+![Pedestrian dynamics in camera](/files/iv2014/dynamics_in_camera_example.png)
 
 
 [![Context-based Pedestrian Path Prediction, ECCV 2014](http://img.youtube.com/vi/e5aVSBWvfUY/0.jpg)](http://www.youtube.com/watch?v=e5aVSBWvfUY "Context-based Pedestrian Path Prediction, ECCV 2014")]
@@ -33,11 +32,16 @@ I'm an Assistant Professor at the [Intelligent Vehicles group](http://intelligen
 
 ### Depth-aware Motion Magnification
 
+![SenseCap for Kinect2 recording](/files/momag/example_kinect_color_depth.resized.jpg)
+
 -	*Depth-aware motion magnification.* J.F.P. Kooij, J.C. van Gemert, European Conference on Computer Vision (ECCV) 2016, 467-482
 
 -	*SenseCap: synchronized data collection with Microsoft Kinect2 and LeapMotion.* J.F.P. Kooij, Proceedings of the 2016 ACM on Multimedia Conference 2016, 1218-1221
 
 ### Anoumalous behavior detection
+
+![CASSANDRA](/files/cassandra/scaled_scenario10-2_0000001640_0.jpg)
+![CASSANDRA](/files/cassandra/cassandra_prototype.jpg)
 
 -	*Multi-modal human aggression detection.* J.F.P. Kooij, M.C. Liem, J.D. Krijnders, T.C. Andringa, D.M. Gavrila, Computer Vision and Image Understanding (CVIU) 2016, 144, 106-120
 
