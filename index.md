@@ -1,8 +1,10 @@
 ## About me
 
-<img src="files/IMG_20170623_030415265_BURST000_COVER_TOP_rect.jpg" width="100px" style="float: left;"/>
+<img src="files/IMG_20170623_030415265_BURST000_COVER_TOP_rect.jpg" width="100px" style="float: left; padding-right: 15px;"/>
 
 I'm an Assistant Professor at the [Intelligent Vehicles group](http://intelligent-vehicles.org/) of [TU Delft, The Netherlands](https://www.tudelft.nl/). Our group is part of the [Cognitive Robotics department](http://cor.tudelft.nl/) of the 3ME faculty.
+
+<div style="clear: all;" />
 
     dr. J. F. P. Kooij
     Faculty of Mechanical, Maritime and Materials Engineering
