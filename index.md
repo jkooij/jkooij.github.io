@@ -1,6 +1,14 @@
 ## About
 
-I'm an Assistant Professor at the [Intelligent Vehicles group](http://intelligent-vehicles.org/) of [TU Delft, The Netherlands](https://www.tudelft.nl/). Our group is part of the [Cognitive Robotics department](https://cor.tudelft.nl/) of the 3ME faculty.
+I'm an Assistant Professor at the [Intelligent Vehicles group](http://intelligent-vehicles.org/) of [TU Delft, The Netherlands](https://www.tudelft.nl/). Our group is part of the [Cognitive Robotics department](http://cor.tudelft.nl/) of the 3ME faculty.
+
+## Projects
+
+### VRU path prediction
+
+Context-based pedestrian path prediction
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e5aVSBWvfUY" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 ## Publications
 
