@@ -16,9 +16,10 @@ I'm an Assistant Professor at the [Intelligent Vehicles group](http://intelligen
 ### Vulnerable Road Users (VRU) perception and path prediction for Intelligent Vehicles
 
 
-![Pedestrian dynamics in camera]({{ site.url }}/files/iv2014/dynamics_in_camera_example.png)
+[![Pedestrian dynamics in camera](/files/iv2014/dynamics_in_camera_example.png)]
 
-<iframe width="560" height="420" src="http://www.youtube.com/embed/e5aVSBWvfUY?color=white&theme=light"></iframe>
+
+[![Context-based Pedestrian Path Prediction, ECCV 2014](http://img.youtube.com/vi/e5aVSBWvfUY/0.jpg)](http://www.youtube.com/watch?v=e5aVSBWvfUY "Context-based Pedestrian Path Prediction, ECCV 2014")]
 
 -	*Mixture of switching linear dynamics to discover behavior patterns in object tracks.* J.F.P. Kooij, G. Englebienne, D.M. Gavrila, IEEE transactions on pattern analysis and machine intelligence (T-PAMI) 2016, 38 (2), 322-334
 
