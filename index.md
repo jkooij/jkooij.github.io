@@ -1,5 +1,7 @@
 ## About me
 
+<img src="files/IMG_20170623_030415265_BURST000_COVER_TOP_rect.jpg" width="100px" style="float: left;"/>
+
 I'm an Assistant Professor at the [Intelligent Vehicles group](http://intelligent-vehicles.org/) of [TU Delft, The Netherlands](https://www.tudelft.nl/). Our group is part of the [Cognitive Robotics department](http://cor.tudelft.nl/) of the 3ME faculty.
 
     dr. J. F. P. Kooij
@@ -10,6 +12,9 @@ I'm an Assistant Professor at the [Intelligent Vehicles group](http://intelligen
 ## Projects
 
 ### Vulnerable Road Users (VRU) perception and path prediction for Intelligent Vehicles
+
+
+![Pedestrian dynamics in camera]({{ site.url }}/files/iv2014/dynamics_in_camera_example.png)
 
 -	*Mixture of switching linear dynamics to discover behavior patterns in object tracks.* J.F.P. Kooij, G. Englebienne, D.M. Gavrila, IEEE transactions on pattern analysis and machine intelligence (T-PAMI) 2016, 38 (2), 322-334
 
