@@ -16,6 +16,8 @@ I'm an Assistant Professor at the [Intelligent Vehicles group](http://intelligen
 
 ![Pedestrian dynamics in camera]({{ site.url }}/files/iv2014/dynamics_in_camera_example.png)
 
+<iframe width="560" height="420" src="http://www.youtube.com/embed/e5aVSBWvfUY?color=white&theme=light"></iframe>
+
 -	*Mixture of switching linear dynamics to discover behavior patterns in object tracks.* J.F.P. Kooij, G. Englebienne, D.M. Gavrila, IEEE transactions on pattern analysis and machine intelligence (T-PAMI) 2016, 38 (2), 322-334
 
 -	*Using road topology to improve cyclist path prediction.* E.A.I. Pool, J.F.P. Kooij, D.M. Gavrila, Intelligent Vehicles Symposium (IV), 2017 IEEE, 289-296
