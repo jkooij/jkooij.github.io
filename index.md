@@ -16,7 +16,7 @@ I'm an Assistant Professor at the [Intelligent Vehicles group](http://intelligen
 
 ### Vulnerable Road Users (VRU) perception and path prediction for Intelligent Vehicles
 
-![Pedestrian dynamics in camera](/files/iv2014/dynamics_in_camera_example.png)
+![Pedestrian dynamics in camera](/files/iv2014/dynamics_in_camera_example.resized.png)
 ![Pedestrian dynamics in camera](/files/eccv2016/scen_illu.resized.png)
 
 
