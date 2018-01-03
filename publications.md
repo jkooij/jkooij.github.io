@@ -10,7 +10,7 @@ You can find an up-to-date list on my [Google Scholar profile](https://scholar.g
 
 -	*Multi-modal human aggression detection.* J.F.P. Kooij, M.C. Liem, J.D. Krijnders, T.C. Andringa, D.M. Gavrila, Computer Vision and Image Understanding (CVIU) 2016, 144, 106-120
 
--	*Mixture of switching linear dynamics to discover behavior patterns in object tracks.* J.F.P. Kooij, G. Englebienne, D.M. Gavrila, IEEE transactions on pattern analysis and machine intelligence (T-PAMI) 2016, 38 (2), 322-334
+-	*Mixture of switching linear dynamics to discover behavior patterns in object tracks.* J.F.P. Kooij, G. Englebienne, D.M. Gavrila, IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) 2016, 38 (2), 322-334
 
 -	*A probabilistic framework for joint pedestrian head and body orientation estimation.* F. Flohr, M. Dumitru-Guzu, JFP Kooij, D.M. Gavrila IEEE Transactions on Intelligent Transportation Systems (T-ITS) 2015, 16 (4), 1872-1882
 

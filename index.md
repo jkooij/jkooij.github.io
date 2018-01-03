@@ -20,7 +20,7 @@ I'm an Assistant Professor at the [Intelligent Vehicles group](http://intelligen
 
 [![Context-based Pedestrian Path Prediction, ECCV 2014](http://img.youtube.com/vi/e5aVSBWvfUY/0.jpg)](http://www.youtube.com/watch?v=e5aVSBWvfUY "Context-based Pedestrian Path Prediction, ECCV 2014")]
 
--	*Mixture of switching linear dynamics to discover behavior patterns in object tracks.* J.F.P. Kooij, G. Englebienne, D.M. Gavrila, IEEE transactions on pattern analysis and machine intelligence (T-PAMI) 2016, 38 (2), 322-334
+-	*Mixture of switching linear dynamics to discover behavior patterns in object tracks.* J.F.P. Kooij, G. Englebienne, D.M. Gavrila, IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) 2016, 38 (2), 322-334
 
 -	*Using road topology to improve cyclist path prediction.* E.A.I. Pool, J.F.P. Kooij, D.M. Gavrila, Intelligent Vehicles Symposium (IV), 2017 IEEE, 289-296
 
