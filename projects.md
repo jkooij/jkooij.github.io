@@ -1,9 +1,10 @@
 ---
 layout: single
 author_profile: true
+title: "Research Topics"
 ---
 
-### Vulnerable Road Users (VRU) perception and path prediction for Intelligent Vehicles
+### Vulnerable Road Users (VRU) path prediction
 
 ![Pedestrian dynamics in camera](/files/iv2014/dynamics_in_camera_example.resized.png)
 ![Pedestrian dynamics in camera](/files/eccv2016/scen_illu.resized.png)
@@ -21,16 +22,6 @@ author_profile: true
 
 [![Context-based Pedestrian Path Prediction, ECCV 2014](https://img.youtube.com/vi/e5aVSBWvfUY/0.jpg)](http://www.youtube.com/watch?v=e5aVSBWvfUY "Context-based Pedestrian Path Prediction, ECCV 2014")
 
-### Depth-aware Motion Magnification
-
-![SenseCap for Kinect2 recording](/files/momag/example_kinect_color_depth.resized.png)
-![Depth-Aware motion magnification](/files/momag/eccv2016-fig1-top-standalone.resized.png)
-![Depth-Aware Motion Magnification](/files/momag/eccv2016-fig1-bottom-standalon.resized.png)
-
--	*Depth-aware motion magnification.* J.F.P. Kooij, J.C. van Gemert, European Conference on Computer Vision (ECCV) 2016, 467-482
-
--	*SenseCap: synchronized data collection with Microsoft Kinect2 and LeapMotion.* J.F.P. Kooij, Proceedings of the 2016 ACM on Multimedia Conference 2016, 1218-1221
-
 ### Anoumalous behavior detection
 
 ![CASSANDRA](/files/cassandra/scaled_scenario10-2_0000001640_0.resized.jpg)
@@ -43,4 +34,14 @@ author_profile: true
 -	*A Non-parametric Hierarchical Model to Discover Behavior Dynamics from Tracks.* J.F.P. Kooij, G. Englebienne, D.M. Gavrila. Proceedings of the European Conference on Computer Vision (ECCV), 2012
 -	*Context-based pedestrian path prediction.* J.F.P. Kooij, N. Schneider, F. Flohr, D.M. Gavrila. European Conference on Computer Vision (ECCV) 2014, 618-633
 
+
+### Depth-aware Motion Magnification
+
+![SenseCap for Kinect2 recording](/files/momag/example_kinect_color_depth.resized.png)
+![Depth-Aware motion magnification](/files/momag/eccv2016-fig1-top-standalone.resized.png)
+![Depth-Aware Motion Magnification](/files/momag/eccv2016-fig1-bottom-standalon.resized.png)
+
+-	*Depth-aware motion magnification.* J.F.P. Kooij, J.C. van Gemert, European Conference on Computer Vision (ECCV) 2016, 467-482
+
+-	*SenseCap: synchronized data collection with Microsoft Kinect2 and LeapMotion.* J.F.P. Kooij, Proceedings of the 2016 ACM on Multimedia Conference 2016, 1218-1221
 
