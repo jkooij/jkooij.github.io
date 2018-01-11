@@ -1,4 +1,7 @@
-## Publications
+---
+layout: single
+author_profile: true
+---
 
 You can find an up-to-date list on my [Google Scholar profile](https://scholar.google.nl/citations?user=Uq5KrMoAAAAJ&hl=en).
 
