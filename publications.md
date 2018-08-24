@@ -5,7 +5,7 @@ author_profile: true
 
 You can find an up-to-date list on my [Google Scholar profile](https://scholar.google.nl/citations?user=Uq5KrMoAAAAJ&hl=en).
 
--   *Context-Based Path Prediction for Targets with Switching Dynamics.* J.F.P. Kooij, F. Flohr, E.A.I. Pool, Dariu M. Gavrila, International Journal of Computer Vision (IJCV), 2018, <https://doi.org/10.1007/s11263-018-1104-4> (Open Access)
+-   *Context-Based Path Prediction for Targets with Switching Dynamics.* J.F.P. Kooij, F. Flohr, E.A.I. Pool, Dariu M. Gavrila, International Journal of Computer Vision (IJCV), 2018, <https://doi.org/10.1007/s11263-018-1104-4> ([Open Access](https://rdcu.be/20lG))
 
 -	*Using road topology to improve cyclist path prediction.* E.A.I. Pool, J.F.P. Kooij, D.M. Gavrila, Intelligent Vehicles Symposium (IV), 2017 IEEE, 289-296
 

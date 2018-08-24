@@ -9,6 +9,7 @@ title: "Research Topics"
 ![Pedestrian dynamics in camera](/files/iv2014/dynamics_in_camera_example.resized.png)
 ![Pedestrian dynamics in camera](/files/eccv2016/scen_illu.resized.png)
 
+-   *Context-Based Path Prediction for Targets with Switching Dynamics.* J.F.P. Kooij, F. Flohr, E.A.I. Pool, Dariu M. Gavrila, International Journal of Computer Vision (IJCV), 2018, <https://doi.org/10.1007/s11263-018-1104-4> ([Open Access](https://rdcu.be/20lG))
 
 -	*Mixture of switching linear dynamics to discover behavior patterns in object tracks.* J.F.P. Kooij, G. Englebienne, D.M. Gavrila, IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) 2016, 38 (2), 322-334
 
