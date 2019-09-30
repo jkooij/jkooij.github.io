@@ -5,7 +5,7 @@ author_profile: true
 
 You can find an up-to-date list on my [Google Scholar profile](https://scholar.google.nl/citations?user=Uq5KrMoAAAAJ&hl=en).
 
--   *End-to-End Learning of Decision Trees and Forests*, T.M. Hehn, J.F.P. Kooij, F.A. Hamprecht, International Journal of Computer Vision (IJCV), Springer 2019 (**to appear**), [github](https://github.com/tomsal/endtoenddecisiontrees)
+-   *End-to-End Learning of Decision Trees and Forests*, T.M. Hehn, J.F.P. Kooij, F.A. Hamprecht, International Journal of Computer Vision (IJCV), Springer 2019 (**to appear**), [code on github](https://github.com/tomsal/endtoenddecisiontrees)
 
 -   *RGB-Depth Cross-Modal Person Re-identification.*, F.M. Hafner, A. Bhuiyan, J.F.P. Kooij, E. Granger, IEEE International Conference on Advanced Video and Signal-based Surveillance (AVSS), 2019 (**oral**)
 
@@ -13,23 +13,23 @@ You can find an up-to-date list on my [Google Scholar profile](https://scholar.g
 
 -   *SafeVRU: A Research Platform for the Interaction of Self-Driving Vehicles with Vulnerable Road Users.*, L. Ferranti, B. Brito, E.A.I. Pool, Y. Zhang, R.M. Ensing, R. Happee, B. Shyrokau, J.F.P. Kooij, J. Alonso-Mora, D.M. Gavrila, IEEE Intelligent Vehicles Symposium (IVS), 2019
 
--   *Instance Stixels: Segmenting and Grouping Stixels into Objects.*, T.H. Hehn, J.F.P. Kooij, D.M. Gavrila, IEEE Intelligent Vehicles Symposium (IVS), 2019, [github](https://github.com/tudelft-iv/instance-stixels)
+-   *Instance Stixels: Segmenting and Grouping Stixels into Objects.*, T.H. Hehn, J.F.P. Kooij, D.M. Gavrila, IEEE Intelligent Vehicles Symposium (IVS), 2019, [code on github](https://github.com/tudelft-iv/instance-stixels)
 
 -   *Occlusion Aware Sensor Fusion for Early Crossing Pedestrian Detection.*, A. Palffy, J.F.P. Kooij, D.M. Gavrila, IEEE Intelligent Vehicles Symposium (IVS), 2019
 
--   *An Extrinsic Calibration Tool for Lidar, Camera and Radar.* J. Domhof, J.F.P. Kooij and D.M. Gavrila, IEEE International Conference on Robotics and Automation (ICRA), 2019, [github](https://github.com/tudelft-iv/multi_sensor_calibration)
+-   *An Extrinsic Calibration Tool for Lidar, Camera and Radar.* J. Domhof, J.F.P. Kooij and D.M. Gavrila, IEEE International Conference on Robotics and Automation (ICRA), 2019, [code on github](https://github.com/tudelft-iv/multi_sensor_calibration)
 
 -   *Context-Based Path Prediction for Targets with Switching Dynamics.* J.F.P. Kooij, F. Flohr, E.A.I. Pool, D.M. Gavrila, International Journal of Computer Vision (IJCV), Springer 2018, <https://doi.org/10.1007/s11263-018-1104-4> ([Open Access](https://rdcu.be/20lG))
 
 -	*Using road topology to improve cyclist path prediction.* E.A.I. Pool, J.F.P. Kooij, D.M. Gavrila, IEEE Intelligent Vehicles Symposium (IVS), 2017 IEEE, 289-296
 
--	*Depth-aware motion magnification.* J.F.P. Kooij, J.C. van Gemert, European Conference on Computer Vision (ECCV) 2016, 467-482
+-	*Depth-aware motion magnification.* J.F.P. Kooij, J.C. van Gemert, European Conference on Computer Vision (ECCV) 2016, 467-482, [code on github](https://github.com/jkooij/depthaware-momag)
 
--	*SenseCap: synchronized data collection with Microsoft Kinect2 and LeapMotion.* J.F.P. Kooij, Proceedings of the 2016 ACM on Multimedia Conference 2016, 1218-1221
+-	*SenseCap: synchronized data collection with Microsoft Kinect2 and LeapMotion.* J.F.P. Kooij, Proceedings of the 2016 ACM on Multimedia Conference 2016, 1218-1221, [code on bitbucket](https://bitbucket.org/jkooij/sensecap/)
 
 -	*Multi-modal human aggression detection.* J.F.P. Kooij, M.C. Liem, J.D. Krijnders, T.C. Andringa, D.M. Gavrila, Computer Vision and Image Understanding (CVIU), Elsevier 2016, 144, 106-120
 
--	*Mixture of switching linear dynamics to discover behavior patterns in object tracks.* J.F.P. Kooij, G. Englebienne, D.M. Gavrila, IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) 2016, 38 (2), 322-334
+-	*Mixture of switching linear dynamics to discover behavior patterns in object tracks.* J.F.P. Kooij, G. Englebienne, D.M. Gavrila, IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) 2016, 38 (2), 322-334, [code](http://gavrila.net/Datasets/Univ__of_Amsterdam_Multi-Cam_P/UvA_Object_Track_Analysis_Soft/uva_object_track_analysis_soft.html)
 
 -	*A probabilistic framework for joint pedestrian head and body orientation estimation.* F. Flohr, M. Dumitru-Guzu, JFP Kooij, D.M. Gavrila IEEE Transactions on Intelligent Transportation Systems (T-ITS) 2015, 16 (4), 1872-1882
 
