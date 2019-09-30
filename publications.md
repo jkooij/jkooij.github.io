@@ -5,6 +5,8 @@ author_profile: true
 
 You can find an up-to-date list on my [Google Scholar profile](https://scholar.google.nl/citations?user=Uq5KrMoAAAAJ&hl=en).
 
+-   *End-to-End Learning of Decision Trees and Forests*, T.M. Hehn, J.F.P. Kooij, F.A. Hamprecht, International Journal of Computer Vision (IJCV), 2019 (**to appear**)
+
 -   *RGB-Depth Cross-Modal Person Re-identification.*, F.M. Hafner, A. Bhuiyan, J.F.P. Kooij, E. Granger, IEEE International Conference on Advanced Video and Signal-based Surveillance (AVSS), 2019 (**oral**)
 
 -   *Context-Based Cyclist Path Prediction Using Recurrent Neural Networks.*, E.A.I. Pool, J.F.P. Kooij, D.M. Gavrila, IEEE Intelligent Vehicles Symposium (IVS), 2019 (**oral**)
