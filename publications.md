@@ -5,6 +5,8 @@ author_profile: true
 
 You can find an up-to-date list on my [Google Scholar profile](https://scholar.google.nl/citations?user=Uq5KrMoAAAAJ&hl=en).
 
+-   *CNN based Road User Detection using the 3D Radar Cube*, A. Palffy, J. Dong, J.F.P. Kooij, D.M Gavrila, IEEE Robotics and Automation Letters (RA-L), 2020 (**to appear**)
+
 -   *End-to-End Learning of Decision Trees and Forests*, T.M. Hehn, J.F.P. Kooij, F.A. Hamprecht, International Journal of Computer Vision (IJCV), Springer 2019, [Open Access](https://rdcu.be/bTSFA), [code on github](https://github.com/tomsal/endtoenddecisiontrees)
 
 -   *RGB-Depth Cross-Modal Person Re-identification.*, F.M. Hafner, A. Bhuiyan, J.F.P. Kooij, E. Granger, IEEE International Conference on Advanced Video and Signal-based Surveillance (AVSS), 2019 (**oral**)
