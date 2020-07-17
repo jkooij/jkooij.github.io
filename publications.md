@@ -5,6 +5,8 @@ author_profile: true
 
 You can find an up-to-date list on my [Google Scholar profile](https://scholar.google.nl/citations?user=Uq5KrMoAAAAJ&hl=en).
 
+-   *Geographically Local Representation Learning with a Spatial Prior for Visual Localization*, Z. Xia, O. Booij, M. Manfredi, J. F. P. Kooij, ECCV 2020 Workshop MLAD (*to appear*)
+
 -   *CNN based Road User Detection using the 3D Radar Cube*, A. Palffy, J. Dong, J.F.P. Kooij, D.M Gavrila, IEEE Robotics and Automation Letters (RA-L), 2020 [Open Access](https://doi.org/10.1109/LRA.2020.2967272) (*presented at IEEE ICRA 2020*)
 
 -   *End-to-End Learning of Decision Trees and Forests*, T.M. Hehn, J.F.P. Kooij, F.A. Hamprecht, International Journal of Computer Vision (IJCV), Springer 2019, [Open Access](https://rdcu.be/bTSFA), [code on github](https://github.com/tomsal/endtoenddecisiontrees)
