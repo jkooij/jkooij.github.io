@@ -14,7 +14,7 @@ I work on environment perception for intelligent vehicles, and mostly target cro
 To understand the environment, the autonomous vehicle needs to create useful representations of its environment, detect and identify dynamic and static obstacles, self-localize itself, and using all sensor information to anticipate future events. Applications include anticipating Vulnerable Road User (VRU) behaviour, path prediction, self-localizing the vehicle using satellite images, and fusing 3D depth and 2D image data for improved object detection.
 
 ### Related research
-- Together witha[Liangliang Nan](https://3d.bk.tudelft.nl/liangliang/), we stareted in 2020 the [3D Urban Understanding (3DUU)](https://www.tudelft.nl/en/ai/3duu/), which is part of the new [TU Delft AI Initiative](https://www.tudelft.nl/en/ai/).
+- [Liangliang Nan](https://3d.bk.tudelft.nl/liangliang/) and I started in 2020 the [3D Urban Understanding (3DUU)](https://www.tudelft.nl/en/ai/3duu/), which is part of the new [TU Delft AI Initiative](https://www.tudelft.nl/en/ai/).
 
 - With Fabian Flohr (Daimler AG), I organize the [Unsupervised Learning for Automated Driving (ULAD) workshop](http://ulad-workshop.com) at the IEEE Intelligent Vehicles Symposium. See links to past editions for [ULAD 2019](http://intelligent-vehicles.org/ulad-2019/), [ULAD 2020](http://intellgent-vehicles.org/ulad-2020/).
 
