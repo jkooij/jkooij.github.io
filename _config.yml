@@ -87,7 +87,7 @@ analytics:
 # Site Author
 author:
   name             : "Julian F. P. Kooij"
-  avatar           : "files/IMG_20170623_030415265_BURST000_COVER_TOP_rect.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "files/jkooij_profile_resized.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Working on intelligent vehicle perception and learning"
   location         : "TU Delft"
   email            : "J.F.P.Kooij@tudelft.nl"
