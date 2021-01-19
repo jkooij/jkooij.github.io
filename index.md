@@ -7,7 +7,7 @@ header:
 ---
 
 I am an Assistant Professor at the [Intelligent Vehicles group](http://intelligent-vehicles.org/), performing research and education on autonomous driving and vehicle perception.
-The group is headed by prof. dr. [Dariu M. Gavria](http://gavrila.net/), and part of the [Cognitive Robotics department](http://cor.tudelft.nl/) of the 3ME faculty, TU Delft, The Netherlands.
+The group is headed by prof. dr. [Dariu M. Gavrila](http://gavrila.net/), and part of the [Cognitive Robotics department](http://cor.tudelft.nl/) of the 3ME faculty, TU Delft, The Netherlands.
 You can find [my staff page](https://www.tudelft.nl/en/staff/j.f.p.kooij/) on the TU Delft website.
 
 I work on environment perception for intelligent vehicles, and mostly target crowded urban settings. My research applies deep learning and probabilistic models to automatically detect objects and predict traffic situations from multi-modal data, collected with on-vehicle sensors. Most of my research therefore relates to Computer Vision, but also addresses other sensing modalities, such as Lidar, Radar and Acoustics.
