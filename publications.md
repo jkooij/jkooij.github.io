@@ -5,7 +5,7 @@ author_profile: true
 
 You can find an up-to-date list on my [Google Scholar profile](https://scholar.google.nl/citations?user=Uq5KrMoAAAAJ&hl=en).
 
--   *Hearing What You Cannot See: Acoustic Vehicle Detection Around Corners*, Y. Schultz, A.K. Mattar, T.M. Hehn, J.F.P. Kooij, IEEE Robotics and Automation Letters (RA-L), 2021 (*to appear*), [code on github](https://github.com/tudelft-iv/occluded_vehicle_acoustic_detection)
+-   *Hearing What You Cannot See: Acoustic Vehicle Detection Around Corners*, Y. Schultz, A.K. Mattar, T.M. Hehn, J.F.P. Kooij, IEEE Robotics and Automation Letters (RA-L), 2021 (*to appear*), doi: [10.1109/LRA.2021.3062254](https://doi.org/10.1109/LRA.2021.3062254), [code on github](https://github.com/tudelft-iv/occluded_vehicle_acoustic_detection)
 
 -   *A Joint Extrinsic Calibration Tool for Radar, Camera and Lidar*, J. Domhof, J. Kooij, D. Gavrila, IEEE Transactions on Intelligent Vehicles (T-IV), 2020 (*to appear*), [code on github](https://github.com/tudelft-iv/multi_sensor_calibration)
 
