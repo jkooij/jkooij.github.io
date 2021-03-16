@@ -13,7 +13,7 @@ You can find an up-to-date list on my [Google Scholar profile](https://scholar.g
 
 -   *A Joint Extrinsic Calibration Tool for Radar, Camera and Lidar*, J. Domhof, J. Kooij, D. Gavrila, IEEE Transactions on Intelligent Vehicles (T-IV), 2020 (*to appear*), [code on github](https://github.com/tudelft-iv/multi_sensor_calibration)
 
--   *Geographically Local Representation Learning with a Spatial Prior for Visual Localization*, Z. Xia, O. Booij, M. Manfredi, J.F.P. Kooij, ECCV 2020 Workshops. Lecture Notes in Computer Science, vol 12536. Springer, Cham. doi: [10.1007/978-3-030-66096-3_38](https://doi-org.tudelft.idm.oclc.org/10.1007/978-3-030-66096-3_38), [code on github](https://github.com/tudelft-iv/Visual-Localization-with-Spatial-Prior)
+-   *Geographically Local Representation Learning with a Spatial Prior for Visual Localization*, Z. Xia, O. Booij, M. Manfredi, J.F.P. Kooij, ECCV 2020 Workshops. Lecture Notes in Computer Science, vol 12536. Springer, Cham. doi: [10.1007/978-3-030-66096-3_38](https://doi.org/10.1007/978-3-030-66096-3_38), [code on github](https://github.com/tudelft-iv/Visual-Localization-with-Spatial-Prior)
 
 -   *CNN based Road User Detection using the 3D Radar Cube*, A. Palffy, J. Dong, J.F.P. Kooij, D.M. Gavrila, IEEE Robotics and Automation Letters (RA-L), 2020 [Open Access](https://doi.org/10.1109/LRA.2020.2967272) (*presented at IEEE ICRA 2020*)
 
