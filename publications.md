@@ -5,19 +5,21 @@ author_profile: true
 
 You can find an up-to-date list on my [Google Scholar profile](https://scholar.google.nl/citations?user=Uq5KrMoAAAAJ&hl=en).
 
+-   *VPR-Bench: An Open-Source Visual Place Recognition Evaluation Framework with Quantifiable Viewpoint and Appearance Change*, M. Zaffar, S. Garg, M. Milford, J. Kooij, D. Flynn, K. McDonald-Maier, S. Ehsan, International Journal of Computer Vision (IJCV), Springer, 2021, doi: [10.1007/s11263-021-01469-5](https://doi.org/10.1007/s11263-021-01469-5), [Open Acess](https://doi.org/10.1007/s11263-021-01469-5), [code on github](https://github.com/MubarizZaffar/VPR-Bench)
+
 -   *Fast and Compact Image Segmentation using Instance Stixels*, T.H. Hehn, J.F.P. Kooij, D.M. Gavrila, IEEE Transactions on Intelligent Vehicles (T-IV), 2021 (*to appear*), [code on github](https://github.com/tudelft-iv/instance-stixels)
 
 -   *Crafted vs. Learned Representations in Predictive Models - A Case Study on Cyclist Path Prediction*, E.A.I. Pool, J.F.P.Kooij, D.M. Gavrila, IEEE Transactions on Intelligent Vehicles (T-IV), 2021 (*to appear*), doi: [10.1109/TIV.2021.3064253](https://doi.org/10.1109/TIV.2021.3064253)
 
 -   *Hearing What You Cannot See: Acoustic Vehicle Detection Around Corners*, Y. Schultz, A.K. Mattar, T.M. Hehn, J.F.P. Kooij, IEEE Robotics and Automation Letters (RA-L), 2021, vol. 6(2), 2587-2594, doi: [10.1109/LRA.2021.3062254](https://doi.org/10.1109/LRA.2021.3062254), [code on github](https://github.com/tudelft-iv/occluded_vehicle_acoustic_detection), [YouTube video](https://www.youtube.com/watch?v=BXkeWf24MLg)
 
--   *A Joint Extrinsic Calibration Tool for Radar, Camera and Lidar*, J. Domhof, J. Kooij, D. Gavrila, IEEE Transactions on Intelligent Vehicles (T-IV), 2020 (*to appear*), [code on github](https://github.com/tudelft-iv/multi_sensor_calibration)
+-   *A Joint Extrinsic Calibration Tool for Radar, Camera and Lidar*, J. Domhof, J. Kooij, D. Gavrila, IEEE Transactions on Intelligent Vehicles (T-IV), 2021 (*to appear*), [code on github](https://github.com/tudelft-iv/multi_sensor_calibration)
 
 -   *Geographically Local Representation Learning with a Spatial Prior for Visual Localization*, Z. Xia, O. Booij, M. Manfredi, J.F.P. Kooij, ECCV 2020 Workshops. Lecture Notes in Computer Science, vol 12536. Springer, Cham. doi: [10.1007/978-3-030-66096-3_38](https://doi.org/10.1007/978-3-030-66096-3_38), [code on github](https://github.com/tudelft-iv/Visual-Localization-with-Spatial-Prior)
 
--   *CNN based Road User Detection using the 3D Radar Cube*, A. Palffy, J. Dong, J.F.P. Kooij, D.M. Gavrila, IEEE Robotics and Automation Letters (RA-L), 2020 [Open Access](https://doi.org/10.1109/LRA.2020.2967272) (*presented at IEEE ICRA 2020*)
+-   *CNN based Road User Detection using the 3D Radar Cube*, A. Palffy, J. Dong, J.F.P. Kooij, D.M. Gavrila, IEEE Robotics and Automation Letters (RA-L), 2020, [Open Access](https://doi.org/10.1109/LRA.2020.2967272) (*presented at IEEE ICRA 2020*)
 
--   *End-to-End Learning of Decision Trees and Forests*, T.M. Hehn, J.F.P. Kooij, F.A. Hamprecht, International Journal of Computer Vision (IJCV), Springer 2019, [Open Access](https://rdcu.be/bTSFA), [code on github](https://github.com/tomsal/endtoenddecisiontrees)
+-   *End-to-End Learning of Decision Trees and Forests*, T.M. Hehn, J.F.P. Kooij, F.A. Hamprecht, International Journal of Computer Vision (IJCV), Springer, 2019, [Open Access](https://rdcu.be/bTSFA), [code on github](https://github.com/tomsal/endtoenddecisiontrees)
 
 -   *RGB-Depth Cross-Modal Person Re-identification.*, F.M. Hafner, A. Bhuiyan, J.F.P. Kooij, E. Granger, IEEE International Conference on Advanced Video and Signal-based Surveillance (AVSS), 2019 (**oral**)
 
@@ -31,7 +33,7 @@ You can find an up-to-date list on my [Google Scholar profile](https://scholar.g
 
 -   *An Extrinsic Calibration Tool for Lidar, Camera and Radar.* J. Domhof, J.F.P. Kooij and D.M. Gavrila, IEEE International Conference on Robotics and Automation (ICRA), 2019, [code on github](https://github.com/tudelft-iv/multi_sensor_calibration)
 
--   *Context-Based Path Prediction for Targets with Switching Dynamics.* J.F.P. Kooij, F. Flohr, E.A.I. Pool, D.M. Gavrila, International Journal of Computer Vision (IJCV), Springer 2018, [Open Access](https://rdcu.be/20lG), <https://doi.org/10.1007/s11263-018-1104-4>
+-   *Context-Based Path Prediction for Targets with Switching Dynamics.* J.F.P. Kooij, F. Flohr, E.A.I. Pool, D.M. Gavrila, International Journal of Computer Vision (IJCV), Springer, 2018, [Open Access](https://rdcu.be/20lG), <https://doi.org/10.1007/s11263-018-1104-4>
 
 -	*Using road topology to improve cyclist path prediction.* E.A.I. Pool, J.F.P. Kooij, D.M. Gavrila, IEEE Intelligent Vehicles Symposium (IVS), 2017 IEEE, 289-296
 
