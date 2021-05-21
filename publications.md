@@ -13,7 +13,7 @@ You can find an up-to-date list on my [Google Scholar profile](https://scholar.g
 
 -   *Crafted vs. Learned Representations in Predictive Models - A Case Study on Cyclist Path Prediction*, E.A.I. Pool, J.F.P.Kooij, D.M. Gavrila, IEEE Transactions on Intelligent Vehicles (T-IV), 2021, doi: [10.1109/TIV.2021.3064253](https://doi.org/10.1109/TIV.2021.3064253)
 
--   *Hearing What You Cannot See: Acoustic Vehicle Detection Around Corners*, Y. Schultz, A.K. Mattar, T.M. Hehn, J.F.P. Kooij, IEEE Robotics and Automation Letters (RA-L), 2021, vol. 6(2), 2587-2594, doi: [10.1109/LRA.2021.3062254](https://doi.org/10.1109/LRA.2021.3062254), [code on github](https://github.com/tudelft-iv/occluded_vehicle_acoustic_detection), [YouTube video](https://www.youtube.com/watch?v=BXkeWf24MLg)
+-   *Hearing What You Cannot See: Acoustic Vehicle Detection Around Corners*, Y. Schultz, A.K. Mattar, T.M. Hehn, J.F.P. Kooij, IEEE Robotics and Automation Letters (RA-L), 2021, vol. 6(2), 2587-2594, doi: [10.1109/LRA.2021.3062254](https://doi.org/10.1109/LRA.2021.3062254), [code on github](https://github.com/tudelft-iv/occluded_vehicle_acoustic_detection), [YouTube video](https://www.youtube.com/watch?v=BXkeWf24MLg) (*presented at IEEE ICRA 2021*)
 
 -   *A Joint Extrinsic Calibration Tool for Radar, Camera and Lidar*, J. Domhof, J. Kooij, D. Gavrila, IEEE Transactions on Intelligent Vehicles (T-IV), 2021, [code on github](https://github.com/tudelft-iv/multi_sensor_calibration)
 
