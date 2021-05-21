@@ -5,6 +5,8 @@ author_profile: true
 
 You can find an up-to-date list on my [Google Scholar profile](https://scholar.google.nl/citations?user=Uq5KrMoAAAAJ&hl=en).
 
+-   *Cross-View Matching for Vehicle Localization by Learning Geographically Local Representations*, Z. Xia, O. Booij, M. Manfredi, J.F.P. Kooij, IEEE Robotics and Automation Letters (RA-L), 2021 (*to appear*), [code on github](https://github.com/tudelft-iv/Visual-Localization-with-Spatial-Prior)
+
 -   *VPR-Bench: An Open-Source Visual Place Recognition Evaluation Framework with Quantifiable Viewpoint and Appearance Change*, M. Zaffar, S. Garg, M. Milford, J. Kooij, D. Flynn, K. McDonald-Maier, S. Ehsan, International Journal of Computer Vision (IJCV), Springer, 2021, doi: [10.1007/s11263-021-01469-5](https://doi.org/10.1007/s11263-021-01469-5), [Open Access](https://doi.org/10.1007/s11263-021-01469-5), [code on github](https://github.com/MubarizZaffar/VPR-Bench)
 
 -   *Fast and Compact Image Segmentation using Instance Stixels*, T.H. Hehn, J.F.P. Kooij, D.M. Gavrila, IEEE Transactions on Intelligent Vehicles (T-IV), 2021 (*to appear*), [code on github](https://github.com/tudelft-iv/instance-stixels)
