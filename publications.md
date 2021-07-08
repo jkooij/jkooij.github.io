@@ -5,7 +5,7 @@ author_profile: true
 
 You can find an up-to-date list on my [Google Scholar profile](https://scholar.google.nl/citations?user=Uq5KrMoAAAAJ&hl=en).
 
--   *Cross-View Matching for Vehicle Localization by Learning Geographically Local Representations*, Z. Xia, O. Booij, M. Manfredi, J.F.P. Kooij, IEEE Robotics and Automation Letters (RA-L), 2021 (*Early Access*), 2377-3766, doi: [10.1109/LRA.2021.3088076](https://doi.org/10.1109/LRA.2021.3088076), [code on github](https://github.com/tudelft-iv/Visual-Localization-with-Spatial-Prior)
+-   *Cross-View Matching for Vehicle Localization by Learning Geographically Local Representations*, Z. Xia, O. Booij, M. Manfredi, J.F.P. Kooij, IEEE Robotics and Automation Letters (RA-L), 2021, vol. 6(3), 5921-5928, doi: [10.1109/LRA.2021.3088076](https://doi.org/10.1109/LRA.2021.3088076), [code on github](https://github.com/tudelft-iv/Visual-Localization-with-Spatial-Prior)
 
 -   *VPR-Bench: An Open-Source Visual Place Recognition Evaluation Framework with Quantifiable Viewpoint and Appearance Change*, M. Zaffar, S. Garg, M. Milford, J. Kooij, D. Flynn, K. McDonald-Maier, S. Ehsan, International Journal of Computer Vision (IJCV), Springer, 2021, doi: [10.1007/s11263-021-01469-5](https://doi.org/10.1007/s11263-021-01469-5), [Open Access](https://doi.org/10.1007/s11263-021-01469-5), [code on github](https://github.com/MubarizZaffar/VPR-Bench)
 
@@ -19,7 +19,7 @@ You can find an up-to-date list on my [Google Scholar profile](https://scholar.g
 
 -   *Geographically Local Representation Learning with a Spatial Prior for Visual Localization*, Z. Xia, O. Booij, M. Manfredi, J.F.P. Kooij, ECCV 2020 Workshops. Lecture Notes in Computer Science, vol 12536. Springer, Cham. doi: [10.1007/978-3-030-66096-3_38](https://doi.org/10.1007/978-3-030-66096-3_38), [code on github](https://github.com/tudelft-iv/Visual-Localization-with-Spatial-Prior)
 
--   *CNN based Road User Detection using the 3D Radar Cube*, A. Palffy, J. Dong, J.F.P. Kooij, D.M. Gavrila, IEEE Robotics and Automation Letters (RA-L), 2020, [Open Access](https://doi.org/10.1109/LRA.2020.2967272) (*presented at IEEE ICRA 2020*)
+-   *CNN based Road User Detection using the 3D Radar Cube*, A. Palffy, J. Dong, J.F.P. Kooij, D.M. Gavrila, IEEE Robotics and Automation Letters (RA-L), 2020, vol. 5(2), 1263-1270, [Open Access](https://doi.org/10.1109/LRA.2020.2967272) (*presented at IEEE ICRA 2020*)
 
 -   *End-to-End Learning of Decision Trees and Forests*, T.M. Hehn, J.F.P. Kooij, F.A. Hamprecht, International Journal of Computer Vision (IJCV), Springer, 2019, [Open Access](https://rdcu.be/bTSFA), [code on github](https://github.com/tomsal/endtoenddecisiontrees)
 
