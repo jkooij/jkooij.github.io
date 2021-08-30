@@ -17,7 +17,7 @@ You can find an up-to-date list on my [Google Scholar profile](https://scholar.g
 
 -   *Hearing What You Cannot See: Acoustic Vehicle Detection Around Corners*, Y. Schulz, A.K. Mattar, T.M. Hehn, J.F.P. Kooij, IEEE Robotics and Automation Letters (RA-L), 2021, vol. 6(2), 2587-2594, doi: [10.1109/LRA.2021.3062254](https://doi.org/10.1109/LRA.2021.3062254), [code on github](https://github.com/tudelft-iv/occluded_vehicle_acoustic_detection), [YouTube video](https://www.youtube.com/watch?v=BXkeWf24MLg) (*presented at IEEE ICRA 2021*)
 
--   *A Joint Extrinsic Calibration Tool for Radar, Camera and Lidar*, J. Domhof, J. Kooij, D. Gavrila, IEEE Transactions on Intelligent Vehicles (T-IV), 2021, [code on github](https://github.com/tudelft-iv/multi_sensor_calibration)
+-   *A Joint Extrinsic Calibration Tool for Radar, Camera and Lidar*, J. Domhof, J. Kooij, D. Gavrila, IEEE Transactions on Intelligent Vehicles (T-IV), 2021, vol. 6(3), 571-582, doi: [10.1109/TIV.2021.3065208](https://doi.org/10.1109/TIV.2021.3065208) [code on github](https://github.com/tudelft-iv/multi_sensor_calibration)
 
 -   *Geographically Local Representation Learning with a Spatial Prior for Visual Localization*, Z. Xia, O. Booij, M. Manfredi, J.F.P. Kooij, ECCV 2020 Workshops. Lecture Notes in Computer Science, vol 12536. Springer, Cham. doi: [10.1007/978-3-030-66096-3_38](https://doi.org/10.1007/978-3-030-66096-3_38), [code on github](https://github.com/tudelft-iv/Visual-Localization-with-Spatial-Prior)
 
