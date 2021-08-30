@@ -5,7 +5,7 @@ author_profile: true
 
 You can find an up-to-date list on my [Google Scholar profile](https://scholar.google.nl/citations?user=Uq5KrMoAAAAJ&hl=en).
 
--   *Occupancy Grid Mapping with Cognitive Plausability for Autonomous Driving Applications*, A. Plebe, J.F.P. Kooij, G. Rosatipapini, M. Dalio, ICCV 2021 Workshop AVVision2021 (**Accepted**).
+-   *Occupancy Grid Mapping with Cognitive Plausibility for Autonomous Driving Applications*, A. Plebe, J.F.P. Kooij, G. Rosatipapini, M. Dalio, ICCV 2021 Workshop AVVision2021 (*Accepted*).
 
 -   *Cross-View Matching for Vehicle Localization by Learning Geographically Local Representations*, Z. Xia, O. Booij, M. Manfredi, J.F.P. Kooij, IEEE Robotics and Automation Letters (RA-L), 2021, vol. 6(3), 5921-5928, doi: [10.1109/LRA.2021.3088076](https://doi.org/10.1109/LRA.2021.3088076), [code on github](https://github.com/tudelft-iv/Visual-Localization-with-Spatial-Prior)
 
