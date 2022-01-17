@@ -5,6 +5,8 @@ author_profile: true
 
 You can find an up-to-date list on my [Google Scholar profile](https://scholar.google.nl/citations?user=Uq5KrMoAAAAJ&hl=en).
 
+-	*Cross-modal distrillation for RGB-depth person re-identification*, F. M. Hafner, A. Bhuyian, J.F.P. Kooij, E. Granger, Computer Vision and Image Understanding (CVIU), Elsevier 2022, doi: [10.1016/j.cviu.2021.103352](https://doi.org/10.1016/j.cviu.2021.103352)
+
 -   *Occupancy Grid Mapping with Cognitive Plausibility for Autonomous Driving Applications*, A. Plebe, J.F.P. Kooij, G.P.R. Papini, M. Da Lio, Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops, 2021, 2934-2941, [Open Access](https://openaccess.thecvf.com/content/ICCV2021W/AVVision/html/Plebe_Occupancy_Grid_Mapping_With_Cognitive_Plausibility_for_Autonomous_Driving_Applications_ICCVW_2021_paper.html).
 
 -   *Cross-View Matching for Vehicle Localization by Learning Geographically Local Representations*, Z. Xia, O. Booij, M. Manfredi, J.F.P. Kooij, IEEE Robotics and Automation Letters (RA-L), 2021, vol. 6(3), 5921-5928, doi: [10.1109/LRA.2021.3088076](https://doi.org/10.1109/LRA.2021.3088076), [code on github](https://github.com/tudelft-iv/Visual-Localization-with-Spatial-Prior)
