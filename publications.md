@@ -5,7 +5,7 @@ author_profile: true
 
 You can find an up-to-date list on my [Google Scholar profile](https://scholar.google.nl/citations?user=Uq5KrMoAAAAJ&hl=en).
 
--   [Early Access] *Multi-class Road User Detection with 3+1D Radar in the View-of-Delft Dataset*, A. Palffy, E.A.I. Pool, S. Baratam, J.F.P. Kooij, D.M. Gavrila, IEEE Robotics and Automation Letters (RA-L), 2022, doi: [10.1109/LRA.2022.3147324](https://doi.org/10.1109/LRA.2022.3147324) (*to be presented at IEEE ICRA 2022*)
+-   *Multi-class Road User Detection with 3+1D Radar in the View-of-Delft Dataset*, A. Palffy, E.A.I. Pool, S. Baratam, J.F.P. Kooij, D.M. Gavrila, IEEE Robotics and Automation Letters (RA-L), 2022, vol. 7(2), 4961-4968, doi: [10.1109/LRA.2022.3147324](https://doi.org/10.1109/LRA.2022.3147324) (*to be presented at IEEE ICRA 2022*), [Project website](https://intelligent-vehicles.org/datasets/view-of-delft/)
 
 -   *Cross-modal distillation for RGB-depth person re-identification*, F. M. Hafner, A. Bhuyian, J.F.P. Kooij, E. Granger, Computer Vision and Image Understanding (CVIU), 2022, 216, p. 103352, doi: [10.1016/j.cviu.2021.103352](https://doi.org/10.1016/j.cviu.2021.103352) 
 
