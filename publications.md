@@ -7,11 +7,11 @@ You can find an up-to-date list on my [Google Scholar profile](https://scholar.g
 
 -   *Push-the-Boundary: Boundary-aware Feature Propagation for Semantic Segmentation of 3D Point Clouds*, S. Du, N. Ibrahimli, J. Stoter, J. Kooij, L. Nan, IEEE International Conference on 3D Vision, 2022 (*accepted for publication*)
 
--	*Visual Cross-View Metric Localization with Dense Uncertainty Estimates*, Z. Xia, O. Booij, M. Manfredi, J.F.P. Kooij, European Conference on Computer Vision (ECCV) 2022, [code on github](https://github.com/tudelft-iv/CrossViewMetricLocalization) (*accepted for publication*)
+-	*Visual Cross-View Metric Localization with Dense Uncertainty Estimates*, Z. Xia, O. Booij, M. Manfredi, J.F.P. Kooij, European Conference on Computer Vision (ECCV) 2022, [code on github](https://github.com/tudelft-iv/CrossViewMetricLocalization), [arXiv](https://arxiv.org/abs/2208.08519) (*accepted for publication*)
 
 -   *Multi-class Road User Detection with 3+1D Radar in the View-of-Delft Dataset*, A. Palffy, E.A.I. Pool, S. Baratam, J.F.P. Kooij, D.M. Gavrila, IEEE Robotics and Automation Letters (RA-L), 2022, vol. 7(2), 4961-4968, doi: [10.1109/LRA.2022.3147324](https://doi.org/10.1109/LRA.2022.3147324) (*presented at IEEE ICRA 2022*), [Project website](https://intelligent-vehicles.org/datasets/view-of-delft/)
 
--   *Cross-modal distillation for RGB-depth person re-identification*, F. M. Hafner, A. Bhuyian, J.F.P. Kooij, E. Granger, Computer Vision and Image Understanding (CVIU), 2022, 216, p. 103352, doi: [10.1016/j.cviu.2021.103352](https://doi.org/10.1016/j.cviu.2021.103352) 
+-   *Cross-modal distillation for RGB-depth person re-identification*, F. M. Hafner, A. Bhuyian, J.F.P. Kooij, E. Granger, Computer Vision and Image Understanding (CVIU), 2022, 216, p. 103352, doi: [10.1016/j.cviu.2021.103352](https://doi.org/10.1016/j.cviu.2021.103352), [arXiv](https://arxiv.org/abs/1810.11641)
 
 -   *Occupancy Grid Mapping with Cognitive Plausibility for Autonomous Driving Applications*, A. Plebe, J.F.P. Kooij, G.P.R. Papini, M. Da Lio, Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops, 2021, 2934-2941, [Open Access](https://openaccess.thecvf.com/content/ICCV2021W/AVVision/html/Plebe_Occupancy_Grid_Mapping_With_Cognitive_Plausibility_for_Autonomous_Driving_Applications_ICCVW_2021_paper.html)
 
@@ -23,13 +23,13 @@ You can find an up-to-date list on my [Google Scholar profile](https://scholar.g
 
 -   *Crafted vs. Learned Representations in Predictive Models - A Case Study on Cyclist Path Prediction*, E.A.I. Pool, J.F.P.Kooij, D.M. Gavrila, IEEE Transactions on Intelligent Vehicles (T-IV), 2021, vol. 6(4), 747-759, doi: [10.1109/TIV.2021.3064253](https://doi.org/10.1109/TIV.2021.3064253)
 
--   *Hearing What You Cannot See: Acoustic Vehicle Detection Around Corners*, Y. Schulz, A.K. Mattar, T.M. Hehn, J.F.P. Kooij, IEEE Robotics and Automation Letters (RA-L), 2021, vol. 6(2), 2587-2594, doi: [10.1109/LRA.2021.3062254](https://doi.org/10.1109/LRA.2021.3062254), [code on github](https://github.com/tudelft-iv/occluded_vehicle_acoustic_detection), [YouTube video](https://www.youtube.com/watch?v=BXkeWf24MLg) (*presented at IEEE ICRA 2021*)
+-   *Hearing What You Cannot See: Acoustic Vehicle Detection Around Corners*, Y. Schulz, A.K. Mattar, T.M. Hehn, J.F.P. Kooij, IEEE Robotics and Automation Letters (RA-L), 2021, vol. 6(2), 2587-2594, doi: [10.1109/LRA.2021.3062254](https://doi.org/10.1109/LRA.2021.3062254), [code on github](https://github.com/tudelft-iv/occluded_vehicle_acoustic_detection), [arXiv](https://arxiv.org/abs/2007.15739), [YouTube video](https://www.youtube.com/watch?v=BXkeWf24MLg) (*presented at IEEE ICRA 2021*)
 
 -   *A Joint Extrinsic Calibration Tool for Radar, Camera and Lidar*, J. Domhof, J. Kooij, D. Gavrila, IEEE Transactions on Intelligent Vehicles (T-IV), 2021, vol. 6(3), 571-582, doi: [10.1109/TIV.2021.3065208](https://doi.org/10.1109/TIV.2021.3065208) [code on github](https://github.com/tudelft-iv/multi_sensor_calibration)
 
 -   *Geographically Local Representation Learning with a Spatial Prior for Visual Localization*, Z. Xia, O. Booij, M. Manfredi, J.F.P. Kooij, ECCV 2020 Workshops. Lecture Notes in Computer Science, vol 12536. Springer, Cham. doi: [10.1007/978-3-030-66096-3_38](https://doi.org/10.1007/978-3-030-66096-3_38), [code on github](https://github.com/tudelft-iv/Visual-Localization-with-Spatial-Prior)
 
--   *CNN based Road User Detection using the 3D Radar Cube*, A. Palffy, J. Dong, J.F.P. Kooij, D.M. Gavrila, IEEE Robotics and Automation Letters (RA-L), 2020, vol. 5(2), 1263-1270, [Open Access](https://doi.org/10.1109/LRA.2020.2967272) (*presented at IEEE ICRA 2020*)
+-   *CNN based Road User Detection using the 3D Radar Cube*, A. Palffy, J. Dong, J.F.P. Kooij, D.M. Gavrila, IEEE Robotics and Automation Letters (RA-L), 2020, vol. 5(2), 1263-1270, [Open Access](https://doi.org/10.1109/LRA.2020.2967272), [arXiv](https://arxiv.org/abs/2004.12165), (*presented at IEEE ICRA 2020*)
 
 -   *End-to-End Learning of Decision Trees and Forests*, T.M. Hehn, J.F.P. Kooij, F.A. Hamprecht, International Journal of Computer Vision (IJCV) Springer, 2020, vol. 128, 997-1011, doi: [10.1007/s11263-019-01237-6](https://doi.org/10.1007/s11263-019-01237-6), [Open Access](https://rdcu.be/bTSFA), [code on github](https://github.com/tomsal/endtoenddecisiontrees)
 
