@@ -5,6 +5,8 @@ author_profile: true
 
 You can find an up-to-date list on my [Google Scholar profile](https://scholar.google.nl/citations?user=Uq5KrMoAAAAJ&hl=en).
 
+-   *Detecting darting out pedestrians with occlusion aware sensor fusion of radar and stereo camera*, A. Palffy, J.F.P. Kooij, D.M. Gavrila, IEEE Transactions on Itelligent Vehicles (T-IV), 2022, (*Early access*), doi: [10.1109/TIV.2022.3220435](https://doi.org/10.1109/TIV.2022.3220435)
+
 -   *Push-the-Boundary: Boundary-aware Feature Propagation for Semantic Segmentation of 3D Point Clouds*, S. Du, N. Ibrahimli, J. Stoter, J. Kooij, L. Nan, IEEE International Conference on 3D Vision, 2022 (*accepted for publication*)
 
 -	*Visual Cross-View Metric Localization with Dense Uncertainty Estimates*, Z. Xia, O. Booij, M. Manfredi, J.F.P. Kooij, European Conference on Computer Vision (ECCV) 2022, [code on github](https://github.com/tudelft-iv/CrossViewMetricLocalization), [arXiv](https://arxiv.org/abs/2208.08519) (*accepted for publication*)
