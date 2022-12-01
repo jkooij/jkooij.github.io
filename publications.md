@@ -13,6 +13,8 @@ You can find an up-to-date list on my [Google Scholar profile](https://scholar.g
 
 -   *Multi-class Road User Detection with 3+1D Radar in the View-of-Delft Dataset*, A. Palffy, E.A.I. Pool, S. Baratam, J.F.P. Kooij, D.M. Gavrila, IEEE Robotics and Automation Letters (RA-L), 2022, vol. 7(2), 4961-4968, doi: [10.1109/LRA.2022.3147324](https://doi.org/10.1109/LRA.2022.3147324) (*presented at IEEE ICRA 2022*), [Project website](https://intelligent-vehicles.org/datasets/view-of-delft/)
 
+-   *BackboneAnalysis: Structured Insights into Compute Platforms from CNN Inference Latency*, F.M. Hafner, M. Zeller, M. Schutera, J. Abhau, J.F.P. Kooij, IEEE Intelligent Vehicles Symposium (IVS), 2022, pp. 1801-1809, doi: [10.1109/IV51971.2022.9827260](https://doi.org/10.1109/IV51971.2022.9827260)
+
 -   *Cross-modal distillation for RGB-depth person re-identification*, F. M. Hafner, A. Bhuyian, J.F.P. Kooij, E. Granger, Computer Vision and Image Understanding (CVIU), 2022, 216, p. 103352, doi: [10.1016/j.cviu.2021.103352](https://doi.org/10.1016/j.cviu.2021.103352), [arXiv](https://arxiv.org/abs/1810.11641)
 
 -   *Occupancy Grid Mapping with Cognitive Plausibility for Autonomous Driving Applications*, A. Plebe, J.F.P. Kooij, G.P.R. Papini, M. Da Lio, Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops, 2021, 2934-2941, [Open Access](https://openaccess.thecvf.com/content/ICCV2021W/AVVision/html/Plebe_Occupancy_Grid_Mapping_With_Cognitive_Plausibility_for_Autonomous_Driving_Applications_ICCVW_2021_paper.html)
