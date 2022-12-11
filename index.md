@@ -6,7 +6,7 @@ header:
     overlay_image: /files/prius_before_library_clean_lp_1350x665.jpg
 ---
 
-I am an Assistant Professor at the [Intelligent Vehicles group](http://intelligent-vehicles.org/), performing research and education on autonomous driving and vehicle perception.
+I am an Associate Professor at the [Intelligent Vehicles group](http://intelligent-vehicles.org/), performing research and education on autonomous driving and vehicle perception.
 The group is headed by prof. dr. [Dariu M. Gavrila](http://gavrila.net/), and part of the [Cognitive Robotics department](http://cor.tudelft.nl/) of the 3ME faculty, TU Delft, The Netherlands.
 You can find [my staff page](https://www.tudelft.nl/en/staff/j.f.p.kooij/) on the TU Delft website.
 
