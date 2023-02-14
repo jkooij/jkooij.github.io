@@ -5,6 +5,11 @@ author_profile: true
 
 You can find an up-to-date list on my [Google Scholar profile](https://scholar.google.nl/citations?user=Uq5KrMoAAAAJ&hl=en).
 
+-   *CoPR: Towards Accurate Visual Localization With Continuous
+Place-descriptor Regression*, M. Zaffar, L. Nan, J.F.P. Kooij,
+Transactions on Robotics (T-RO), 2023, (*To appear*).
+
+
 -   *How Informative is the Approximation Error from Tensor Decomposition for Neural Network Compression?*, J. Schuurmans, K. Batselier, J.F.P. Kooij,
 International Conference on Learning Representations (ICLR), 2023, (*To appear*).
 
