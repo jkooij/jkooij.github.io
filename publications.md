@@ -7,14 +7,12 @@ You can find an up-to-date list on my [Google Scholar profile](https://scholar.g
 
 -   *SliceMatch: Geometry-guided Aggregation for Cross-View Pose Estimation*, T. de Vries Lentsch, Z. Xia, H. Caesar, J.F.P. Kooij, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023, (*To appear*), [arXiv](https://arxiv.org/abs/2211.14651)
 
--   *CoPR: Towards Accurate Visual Localization With Continuous
-Place-descriptor Regression*, M. Zaffar, L. Nan, J.F.P. Kooij,
-Transactions on Robotics (T-RO), 2023, (*To appear*).
+-   *CoPR: Towards Accurate Visual Localization With Continuous Place-descriptor Regression*, M. Zaffar, L. Nan, J.F.P. Kooij, Transactions on Robotics (T-RO), 2023, (*To appear*).
 
 -   *How Informative is the Approximation Error from Tensor Decomposition for Neural Network Compression?*, J. Schuurmans, K. Batselier, J.F.P. Kooij,
 International Conference on Learning Representations (ICLR), 2023, (*To appear*).
 
--   *Detecting darting out pedestrians with occlusion aware sensor fusion of radar and stereo camera*, A. Palffy, J.F.P. Kooij, D.M. Gavrila, IEEE Transactions on Intelligent Vehicles (T-IV), 2022, (*Early access*), doi: [10.1109/TIV.2022.3220435](https://doi.org/10.1109/TIV.2022.3220435)
+-   *Detecting darting out pedestrians with occlusion aware sensor fusion of radar and stereo camera*, A. Palffy, J.F.P. Kooij, D.M. Gavrila, IEEE Transactions on Intelligent Vehicles (T-IV), 2023, vol. 8(2), 1459-1472, doi: [10.1109/TIV.2022.3220435](https://doi.org/10.1109/TIV.2022.3220435)
 
 -   *Push-the-Boundary: Boundary-aware Feature Propagation for Semantic Segmentation of 3D Point Clouds*, S. Du, N. Ibrahimli, J. Stoter, J. Kooij, L. Nan, IEEE International Conference on 3D Vision (3DV), 2022, [code on github](https://github.com/shenglandu/PushBoundary), [YouTube video](https://youtu.be/hqpyDbztdLQ)
 
