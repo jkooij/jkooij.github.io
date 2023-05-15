@@ -10,7 +10,7 @@ You can find an up-to-date list on my [Google Scholar profile](https://scholar.g
 -   *CoPR: Towards Accurate Visual Localization With Continuous Place-descriptor Regression*, M. Zaffar, L. Nan, J.F.P. Kooij, Transactions on Robotics (T-RO), 2023, doi: [10.1109/TRO.2023.3262106](https://doi.org/10.1109/TRO.2023.3262106)
 
 -   *How Informative is the Approximation Error from Tensor Decomposition for Neural Network Compression?*, J. Schuurmans, K. Batselier, J.F.P. Kooij,
-International Conference on Learning Representations (ICLR), 2023, (*To appear*).
+International Conference on Learning Representations (ICLR), 2023, [arXiv](https://arxiv.org/abs/2305.05318)
 
 -   *Detecting darting out pedestrians with occlusion aware sensor fusion of radar and stereo camera*, A. Palffy, J.F.P. Kooij, D.M. Gavrila, IEEE Transactions on Intelligent Vehicles (T-IV), 2023, vol. 8(2), 1459-1472, doi: [10.1109/TIV.2022.3220435](https://doi.org/10.1109/TIV.2022.3220435)
 
