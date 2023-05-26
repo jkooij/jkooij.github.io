@@ -5,7 +5,7 @@ author_profile: true
 
 You can find an up-to-date list on my [Google Scholar profile](https://scholar.google.nl/citations?user=Uq5KrMoAAAAJ&hl=en).
 
--   *SliceMatch: Geometry-guided Aggregation for Cross-View Pose Estimation*, T. de Vries Lentsch, Z. Xia, H. Caesar, J.F.P. Kooij, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023, (*To appear*), [arXiv](https://arxiv.org/abs/2211.14651)
+-   *SliceMatch: Geometry-guided Aggregation for Cross-View Pose Estimation*, T. de Vries Lentsch, Z. Xia, H. Caesar, J.F.P. Kooij, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pp. 17225-17234, 2023, [arXiv](https://arxiv.org/abs/2211.14651)
 
 -   *CoPR: Toward Accurate Visual Localization With Continuous Place-descriptor Regression*, M. Zaffar, L. Nan, J.F.P. Kooij, Transactions on Robotics (T-RO), 2023, doi: [10.1109/TRO.2023.3262106](https://doi.org/10.1109/TRO.2023.3262106)
 
