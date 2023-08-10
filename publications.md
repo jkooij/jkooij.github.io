@@ -8,9 +8,9 @@ You can find an up-to-date list on my [Google Scholar profile](https://scholar.g
 -   *DDL-MVS: Depth Discontinuity Learning for Multi-View Stereo Networks*, N. Ibrahimli, H. Ledoux, J.F.P. Kooij, L. Nan, 
 Remote Sensing, 2023, vol. 15, 2970, doi: [10.3390/rs15122970](https://doi.org/10.3390/rs15122970), [Open Access](https://www.mdpi.com/2072-4292/15/12/2970), [code on github](https://github.com/mirmix/ddlmvs)
 
--   *SliceMatch: Geometry-guided Aggregation for Cross-View Pose Estimation*, T. Lentsch, Z. Xia, H. Caesar, J.F.P. Kooij, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pp. 17225-17234, 2023, [arXiv](https://arxiv.org/abs/2211.14651), [code on github](https://github.com/tudelft-iv/SliceMatch)
+-   *SliceMatch: Geometry-guided Aggregation for Cross-View Pose Estimation*, T. Lentsch, Z. Xia, H. Caesar, J.F.P. Kooij, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 17225-17234, 2023, [arXiv](https://arxiv.org/abs/2211.14651), [code on github](https://github.com/tudelft-iv/SliceMatch)
 
--   *CoPR: Toward Accurate Visual Localization With Continuous Place-descriptor Regression*, M. Zaffar, L. Nan, J.F.P. Kooij, Transactions on Robotics (T-RO), 2023, doi: [10.1109/TRO.2023.3262106](https://doi.org/10.1109/TRO.2023.3262106)
+-   *CoPR: Toward Accurate Visual Localization With Continuous Place-descriptor Regression*, M. Zaffar, L. Nan, J.F.P. Kooij, IEEE Transactions on Robotics (T-RO), 2023, vol. 39(4), 2825-2841, doi: [10.1109/TRO.2023.3262106](https://doi.org/10.1109/TRO.2023.3262106)
 
 -   *How Informative is the Approximation Error from Tensor Decomposition for Neural Network Compression?*, J. Schuurmans, K. Batselier, J.F.P. Kooij,
 International Conference on Learning Representations (ICLR), 2023, [arXiv](https://arxiv.org/abs/2305.05318)
@@ -19,11 +19,11 @@ International Conference on Learning Representations (ICLR), 2023, [arXiv](https
 
 -   *Push-the-Boundary: Boundary-aware Feature Propagation for Semantic Segmentation of 3D Point Clouds*, S. Du, N. Ibrahimli, J. Stoter, J. Kooij, L. Nan, IEEE International Conference on 3D Vision (3DV), 2022, [code on github](https://github.com/shenglandu/PushBoundary), [YouTube video](https://youtu.be/hqpyDbztdLQ)
 
--	*Visual Cross-View Metric Localization with Dense Uncertainty Estimates*, Z. Xia, O. Booij, M. Manfredi, J.F.P. Kooij, European Conference on Computer Vision (ECCV) 2022, vol. 13699, pp. 90-106, doi: [10.1007/978-3-031-19842-7_6](https://doi.org/10.1007/978-3-031-19842-7_6) [code on github](https://github.com/tudelft-iv/CrossViewMetricLocalization), [arXiv](https://arxiv.org/abs/2208.08519)
+-	*Visual Cross-View Metric Localization with Dense Uncertainty Estimates*, Z. Xia, O. Booij, M. Manfredi, J.F.P. Kooij, European Conference on Computer Vision (ECCV) 2022, vol. 13699, 90-106, doi: [10.1007/978-3-031-19842-7_6](https://doi.org/10.1007/978-3-031-19842-7_6) [code on github](https://github.com/tudelft-iv/CrossViewMetricLocalization), [arXiv](https://arxiv.org/abs/2208.08519)
 
 -   *Multi-class Road User Detection with 3+1D Radar in the View-of-Delft Dataset*, A. Palffy, E.A.I. Pool, S. Baratam, J.F.P. Kooij, D.M. Gavrila, IEEE Robotics and Automation Letters (RA-L), 2022, vol. 7(2), 4961-4968, doi: [10.1109/LRA.2022.3147324](https://doi.org/10.1109/LRA.2022.3147324) (*presented at IEEE ICRA 2022*), [Project website](https://intelligent-vehicles.org/datasets/view-of-delft/)
 
--   *BackboneAnalysis: Structured Insights into Compute Platforms from CNN Inference Latency*, F.M. Hafner, M. Zeller, M. Schutera, J. Abhau, J.F.P. Kooij, IEEE Intelligent Vehicles Symposium (IVS), 2022, pp. 1801-1809, doi: [10.1109/IV51971.2022.9827260](https://doi.org/10.1109/IV51971.2022.9827260)
+-   *BackboneAnalysis: Structured Insights into Compute Platforms from CNN Inference Latency*, F.M. Hafner, M. Zeller, M. Schutera, J. Abhau, J.F.P. Kooij, IEEE Intelligent Vehicles Symposium (IVS), 2022, 1801-1809, doi: [10.1109/IV51971.2022.9827260](https://doi.org/10.1109/IV51971.2022.9827260)
 
 -   *Cross-modal distillation for RGB-depth person re-identification*, F. M. Hafner, A. Bhuyian, J.F.P. Kooij, E. Granger, Computer Vision and Image Understanding (CVIU), 2022, 216, p. 103352, doi: [10.1016/j.cviu.2021.103352](https://doi.org/10.1016/j.cviu.2021.103352), [arXiv](https://arxiv.org/abs/1810.11641)
 
