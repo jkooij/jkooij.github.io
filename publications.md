@@ -5,6 +5,8 @@ author_profile: true
 
 You can find an up-to-date list on my [Google Scholar profile](https://scholar.google.nl/citations?user=Uq5KrMoAAAAJ&hl=en).
 
+-   *MuVieCAST: Multi-View Consistent Artistic Style Transfer*, N. Ibrahimli, J.F.P. Kooij, L. Nan, IEEE International Conference on 3D Vision (3DV), 2024, _to appear**
+
 -   *DDL-MVS: Depth Discontinuity Learning for Multi-View Stereo Networks*, N. Ibrahimli, H. Ledoux, J.F.P. Kooij, L. Nan, 
 Remote Sensing, 2023, vol. 15, 2970, doi: [10.3390/rs15122970](https://doi.org/10.3390/rs15122970), [Open Access](https://www.mdpi.com/2072-4292/15/12/2970), [code on github](https://github.com/mirmix/ddlmvs)
 
