@@ -12,7 +12,7 @@ Remote Sensing, 2023, vol. 15, 2970, doi: [10.3390/rs15122970](https://doi.org/1
 
 -   *SliceMatch: Geometry-guided Aggregation for Cross-View Pose Estimation*, T. Lentsch, Z. Xia, H. Caesar, J.F.P. Kooij, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 17225-17234, 2023, [arXiv](https://arxiv.org/abs/2211.14651), [code on github](https://github.com/tudelft-iv/SliceMatch)
 
--   *CoPR: Toward Accurate Visual Localization With Continuous Place-descriptor Regression*, M. Zaffar, L. Nan, J.F.P. Kooij, IEEE Transactions on Robotics (T-RO), 2023, vol. 39(4), 2825-2841, doi: [10.1109/TRO.2023.3262106](https://doi.org/10.1109/TRO.2023.3262106)
+-   *CoPR: Toward Accurate Visual Localization With Continuous Place-descriptor Regression*, M. Zaffar, L. Nan, J.F.P. Kooij, IEEE Transactions on Robotics (T-RO), 2023, vol. 39(4), 2825-2841, doi: [10.1109/TRO.2023.3262106](https://doi.org/10.1109/TRO.2023.3262106), [arXiv](https://arxiv.org/abs/2304.07426)
 
 -   *How Informative is the Approximation Error from Tensor Decomposition for Neural Network Compression?*, J. Schuurmans, K. Batselier, J.F.P. Kooij,
 International Conference on Learning Representations (ICLR), 2023, [arXiv](https://arxiv.org/abs/2305.05318)
