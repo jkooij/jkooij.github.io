@@ -1,0 +1,398 @@
+- key: muviecast
+  title: "MuVieCAST: Multi-View Consistent Artistic Style Transfer"
+  authors: N. Ibrahimli, J.F.P. Kooij, L. Nan
+  booktitle: "IEEE International Conference on 3D Vision (3DV)"
+  year: 2024
+  note: "to appear"
+
+- key: ddlmvs
+  title: "DDL-MVS: Depth Discontinuity Learning for Multi-View Stereo Networks"
+  authors: N. Ibrahimli, H. Ledoux, J.F.P. Kooij, L. Nan
+  journal: "Remote Sensing"
+  year: 2023
+  volume: 15
+  pages: 2970
+  doi: "10.3390/rs15122970"
+  puburl: "https://www.mdpi.com/2072-4292/15/12/2970"
+  arxiv: "https://arxiv.org/abs/2203.01391"
+  code: "https://github.com/mirmix/ddlmvs"
+
+- key: slicematch
+  title: "SliceMatch: Geometry-guided Aggregation for Cross-View Pose Estimation"
+  authors: T. Lentsch, Z. Xia, H. Caesar, J.F.P. Kooij
+  booktitle: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+  pages: "17225-17234"
+  year: 2023
+  arxiv: "https://arxiv.org/abs/2211.14651"
+  code: "https://github.com/tudelft-iv/SliceMatch"
+  youtube: "gql1dkQQNrA"
+
+- key: copr
+  title: "CoPR: Toward Accurate Visual Localization With Continuous Place-descriptor Regression"
+  authors: M. Zaffar, L. Nan, J.F.P. Kooij
+  journal: "IEEE Transactions on Robotics (T-RO)"
+  year: 2023
+  volume: 39
+  number: 4
+  pages: "2825-2841"
+  doi: "10.1109/TRO.2023.3262106"
+  arxiv: "https://arxiv.org/abs/2304.07426"
+
+- key: tensorapproximation
+  title: "How Informative is the Approximation Error from Tensor Decomposition for Neural Network Compression?"
+  authors: J. Schuurmans, K. Batselier, J.F.P. Kooij
+  booktitle: "International Conference on Learning Representations (ICLR)"
+  year: 2023
+  arxiv: "https://arxiv.org/abs/2305.05318"
+  doi: "10.48550/arXiv.2305.05318"
+  code: https://github.com/JSchuurmans/tddl
+
+- key: dartingoutpedestrians
+  title: "Detecting darting out pedestrians with occlusion aware sensor fusion of radar and stereo camera"
+  authors: A. Palffy, J.F.P. Kooij, D.M. Gavrila
+  journal: "IEEE Transactions on Intelligent Vehicles (T-IV)"
+  year: 2023
+  volume: 8
+  number: 2
+  pages: "1459-1472"
+  doi: "10.1109/TIV.2022.3220435"
+
+- key: pushtheboundary
+  title: "Push-the-Boundary: Boundary-aware Feature Propagation for Semantic Segmentation of 3D Point Clouds"
+  authors: S. Du, N. Ibrahimli, J. Stoter, J. Kooij, L. Nan
+  booktitle: "IEEE International Conference on 3D Vision (3DV)"
+  year: 2022
+  code: "https://github.com/shenglandu/PushBoundary"
+  youtube: "hqpyDbztdLQ"
+  arxiv: "https://arxiv.org/abs/2212.12402"
+
+- key: crossviewmetriclocalization
+  title: "Visual Cross-View Metric Localization with Dense Uncertainty Estimates"
+  authors: Z. Xia, O. Booij, M. Manfredi, J.F.P. Kooij
+  booktitle: "European Conference on Computer Vision (ECCV)"
+  year: 2022
+  volume: 13699
+  pages: "90-106"
+  doi: "10.1007/978-3-031-19842-7_6"
+  code: "https://github.com/tudelft-iv/CrossViewMetricLocalization"
+  arxiv: "https://arxiv.org/abs/2208.08519"
+
+- key: vod-dataset
+  title: "Multi-class Road User Detection with 3+1D Radar in the View-of-Delft Dataset"
+  authors: A. Palffy, E.A.I. Pool, S. Baratam, J.F.P. Kooij, D.M. Gavrila
+  journal: "IEEE Robotics and Automation Letters (RA-L)"
+  year: 2022
+  volume: 7
+  number: 2
+  pages: "4961-4968"
+  doi: "10.1109/LRA.2022.3147324"
+  note: "presented at IEEE ICRA 2022"
+  project: "https://intelligent-vehicles.org/datasets/view-of-delft/"
+  youtube: "R8r3lrkicJ0"
+
+- key: backboneanalysis
+  title: "BackboneAnalysis: Structured Insights into Compute Platforms from CNN Inference Latency"
+  authors: F.M. Hafner, M. Zeller, M. Schutera, J. Abhau, J.F.P. Kooij
+  booktitle: "IEEE Intelligent Vehicles Symposium (IVS)"
+  year: 2022
+  pages: "1801-1809"
+  doi: "10.1109/IV51971.2022.9827260"
+
+- key: crossmodaldistillation
+  title: "Cross-modal distillation for RGB-depth person re-identification"
+  authors: F. M. Hafner, A. Bhuyian, J.F.P. Kooij, E. Granger
+  journal: "Computer Vision and Image Understanding (CVIU)"
+  year: 2022
+  volume: 216
+  pages: "103352"
+  doi: "10.1016/j.cviu.2021.103352"
+  arxiv: "https://arxiv.org/abs/1810.11641"
+
+- key: occupancygridmapping
+  title: "Occupancy Grid Mapping with Cognitive Plausibility for Autonomous Driving Applications"
+  authors: A. Plebe, J.F.P. Kooij, G.P.R. Papini, M. Da Lio
+  booktitle: "Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops"
+  year: 2021
+  pages: "2934-2941"
+  puburl: "https://openaccess.thecvf.com/content/ICCV2021W/AVVision/html/Plebe_Occupancy_Grid_Mapping_With_Cognitive_Plausibility_for_Autonomous_Driving_Applications_ICCVW_2021_paper.html"
+
+- key: crossviewmatching
+  title: "Cross-View Matching for Vehicle Localization by Learning Geographically Local Representations"
+  authors: Z. Xia, O. Booij, M. Manfredi, J.F.P. Kooij
+  journal: "IEEE Robotics and Automation Letters (RA-L)"
+  year: 2021
+  volume: 6
+  number: 3
+  pages: "5921-5928"
+  doi: "10.1109/LRA.2021.3088076"
+  code: "https://github.com/tudelft-iv/Visual-Localization-with-Spatial-Prior"
+  youtube: "54pPcjdDqiA"
+
+- key: vprbench
+  title: "VPR-Bench: An Open-Source Visual Place Recognition Evaluation Framework with Quantifiable Viewpoint and Appearance Change"
+  authors: M. Zaffar, S. Garg, M. Milford, J. Kooij, D. Flynn, K. McDonald-Maier, S. Ehsan
+  journal: "International Journal of Computer Vision (IJCV)"
+  year: 2021
+  doi: "10.1007/s11263-021-01469-5"
+  puburl: "https://doi.org/10.1007/s11263-021-01469-5"
+  code: "https://github.com/MubarizZaffar/VPR-Bench"
+  arxiv: "https://arxiv.org/abs/2005.08135"
+
+- key: fastcompactsegmentation
+  title: "Fast and Compact Image Segmentation using Instance Stixels"
+  authors: T.H. Hehn, J.F.P. Kooij, D.M. Gavrila
+  journal: "IEEE Transactions on Intelligent Vehicles (T-IV)"
+  volume: 7
+  number: 1
+  pages: "45-46"
+  year: 2021
+  code: "https://github.com/tudelft-iv/instance-stixels"
+  youtube: irrPsoWQoLY
+  doi: 10.1109/TIV.2021.3067223
+
+- key: craftedvslearned
+  title: "Crafted vs. Learned Representations in Predictive Models - A Case Study on Cyclist Path Prediction"
+  authors: E.A.I. Pool, J.F.P.Kooij, D.M. Gavrila
+  journal: "IEEE Transactions on Intelligent Vehicles (T-IV)"
+  year: 2021
+  volume: 6
+  number: 4
+  pages: "747-759"
+  doi: "10.1109/TIV.2021.3064253"
+
+- key: acousticvehicledetection
+  title: "Hearing What You Cannot See: Acoustic Vehicle Detection Around Corners"
+  authors: Y. Schulz, A.K. Mattar, T.M. Hehn, J.F.P. Kooij
+  journal: "IEEE Robotics and Automation Letters (RA-L)"
+  year: 2021
+  volume: 6
+  number: 2
+  pages: "2587-2594"
+  doi: "10.1109/LRA.2021.3062254"
+  code: "https://github.com/tudelft-iv/occluded_vehicle_acoustic_detection"
+  arxiv: "https://arxiv.org/abs/2007.15739"
+  youtube: "BXkeWf24MLg"
+  note: "presented at IEEE ICRA 2021"
+
+- key: jointextrinsiccalibration
+  title: "A Joint Extrinsic Calibration Tool for Radar, Camera and Lidar"
+  authors: J. Domhof, J. Kooij, D. Gavrila
+  journal: "IEEE Transactions on Intelligent Vehicles (T-IV)"
+  year: 2021
+  volume: 6
+  number: 3
+  pages: "571-582"
+  doi: "10.1109/TIV.2021.3065208"
+  code: "https://github.com/tudelft-iv/multi_sensor_calibration"
+
+- key: geographicallylocalrepresentation
+  title: "Geographically Local Representation Learning with a Spatial Prior for Visual Localization"
+  authors: Z. Xia, O. Booij, M. Manfredi, J.F.P. Kooij
+  booktitle: "ECCV 2020 Workshops"
+  year: 2020
+  doi: "10.1007/978-3-030-66096-3_38"
+  code: "https://github.com/tudelft-iv/Visual-Localization-with-Spatial-Prior"
+
+- key: cnnroaduserdetection
+  title: "CNN based Road User Detection using the 3D Radar Cube"
+  authors: A. Palffy, J. Dong, J.F.P. Kooij, D.M. Gavrila
+  journal: "IEEE Robotics and Automation Letters (RA-L)"
+  year: 2020
+  volume: 5
+  number: 2
+  pages: "1263-1270"
+  doi: "10.1109/LRA.2020.2967272"
+  note: "presented at IEEE ICRA 2020"
+  youtube: "dLLFt_OVFxk"
+
+- key: endtoenddecisiontrees
+  title: "End-to-End Learning of Decision Trees and Forests"
+  authors: T.M. Hehn, J.F.P. Kooij, F.A. Hamprecht
+  journal: "International Journal of Computer Vision (IJCV)"
+  year: 2020
+  volume: 128
+  pages: "997-1011"
+  doi: "10.1007/s11263-019-01237-6"
+  code: "https://github.com/tomsal/endtoenddecisiontrees"
+
+- key: rgbdepthreid
+  title: "RGB-Depth Cross-Modal Person Re-identification"
+  authors: F.M. Hafner, A. Bhuiyan, J.F.P. Kooij, E. Granger
+  booktitle: "IEEE International Conference on Advanced Video and Signal-based Surveillance (AVSS)"
+  pages: "1-8"
+  year: 2019
+  doi: 10.1109/AVSS.2019.8909838
+  note: "oral"
+
+- key: cyclistpathprediction
+  title: "Context-Based Cyclist Path Prediction Using Recurrent Neural Networks"
+  authors: E.A.I. Pool, J.F.P. Kooij, D.M. Gavrila
+  booktitle: "IEEE Intelligent Vehicles Symposium (IVS)"
+  pages: "824-830"
+  year: 2019
+  doi: "10.1109/IVS.2019.8813889 "
+  note: "oral"
+
+- key: safevru
+  title: "SafeVRU: A Research Platform for the Interaction of Self-Driving Vehicles with Vulnerable Road Users"
+  authors: L. Ferranti, B. Brito, E.A.I. Pool, Y. Zhang, R.M. Ensing, R. Happee, B. Shyrokau, J.F.P. Kooij, J. Alonso-Mora, D.M. Gavrila
+  booktitle: "IEEE Intelligent Vehicles Symposium (IVS)"
+  pages: "1660-1666"
+  year: 2019
+  doi: 10.1109/IVS.2019.8813899
+  youtube: "dLLFt_OVFxk"
+
+- key: instancestixels
+  title: "Instance Stixels: Segmenting and Grouping Stixels into Objects"
+  authors: T.H. Hehn, J.F.P. Kooij, D.M. Gavrila
+  booktitle: "IEEE Intelligent Vehicles Symposium (IVS)"
+  pages: "2542-2549"
+  year: 2019
+  code: "https://github.com/tudelft-iv/instance-stixels"
+  youtube: irrPsoWQoLY
+  doi: 10.1109/IVS.2019.8814243
+
+- key: occlusionaware
+  title: "Occlusion Aware Sensor Fusion for Early Crossing Pedestrian Detection"
+  authors: A. Palffy, J.F.P. Kooij, D.M. Gavrila
+  booktitle: "IEEE Intelligent Vehicles Symposium (IVS)"
+  pages: "1768-1774"
+  year: 2019
+  doi: 10.1109/IVS.2019.8814065
+
+- key: calibrationtool
+  title: "An Extrinsic Calibration Tool for Lidar, Camera and Radar"
+  authors: J. Domhof, J.F.P. Kooij, D.M. Gavrila
+  booktitle: "IEEE International Conference on Robotics and Automation (ICRA)"
+  pages: "8107-8113"
+  year: 2019
+  code: "https://github.com/tudelft-iv/multi_sensor_calibration"
+  doi: 10.1109/ICRA.2019.8794186
+
+- key: contextpathprediction
+  title: "Context-Based Path Prediction for Targets with Switching Dynamics"
+  authors: J.F.P. Kooij, F. Flohr, E.A.I. Pool, D.M. Gavrila
+  journal: "International Journal of Computer Vision (IJCV)"
+  publisher: "Springer"
+  year: 2018
+  open_access: "https://rdcu.be/20lG"
+  doi: "10.1007/s11263-018-1104-4"
+
+- key: roadtopology
+  title: "Using road topology to improve cyclist path prediction"
+  authors: E.A.I. Pool, J.F.P. Kooij, D.M. Gavrila
+  booktitle: "IEEE Intelligent Vehicles Symposium (IVS)"
+  year: 2017
+  pages: "289-296"
+  doi: 10.1109/IVS.2017.7995734
+
+- key: depthawaremomag
+  title: "Depth-aware motion magnification"
+  authors: J.F.P. Kooij, J.C. van Gemert
+  booktitle: "European Conference on Computer Vision (ECCV)"
+  year: 2016
+  pages: "467-482"
+  code: "https://github.com/jkooij/depthaware-momag"
+  doi: 10.1007/978-3-319-46484-8_28
+
+- key: sensecap
+  title: "SenseCap: synchronized data collection with Microsoft Kinect2 and LeapMotion"
+  authors: J.F.P. Kooij
+  booktitle: "Proceedings of the 2016 ACM on Multimedia Conference"
+  year: 2016
+  pages: "1218-1221"
+  code: "https://bitbucket.org/jkooij/sensecap/"
+  doi: 10.1145/2964284.2973805
+
+- key: multimodalaggression
+  title: "Multi-modal human aggression detection"
+  authors: J.F.P. Kooij, M.C. Liem, J.D. Krijnders, T.C. Andringa
+  journal: "Computer Vision and Image Understanding (CVIU)"
+  publisher: "Elsevier"
+  year: 2016
+  volume: 144
+  pages: "106-120"
+  doi: 10.1016/j.cviu.2015.06.009
+
+- key: behaviorpatterns
+  title: "Mixture of switching linear dynamics to discover behavior patterns in object tracks"
+  authors: J.F.P. Kooij, G. Englebienne, D.M. Gavrila
+  journal: "IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)"
+  year: 2016
+  volume: 38
+  number: 2
+  pages: "322-334"
+  code: "http://gavrila.net/Datasets/Univ__of_Amsterdam_Multi-Cam_P/UvA_Object_Track_Analysis_Soft/uva_object_track_analysis_soft.html"
+  doi: 10.1109/TPAMI.2015.2443801
+  project: "http://gavrila.net/Datasets/Univ__of_Amsterdam_Multi-Cam_P/UvA_Object_Track_Analysis_Soft/uva_object_track_analysis_soft.html"
+
+- key: jointorientationestimation
+  title: "A probabilistic framework for joint pedestrian head and body orientation estimation"
+  authors: F. Flohr, M. Dumitru-Guzu, JFP Kooij
+  journal: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
+  year: 2015
+  volume: 16
+  number: 4
+  pages: "1872-1882"
+  doi: 10.1109/TITS.2014.2379441
+
+- key: objectappearance
+  title: "Identifying multiple objects from their appearance in inaccurate detections"
+  authors: J.F.P. Kooij, G. Englebienne, D.M. Gavrila
+  journal: "Computer Vision and Image Understanding (CVIU)"
+  publisher: "Elsevier"
+  year: 2015
+  volume: 136
+  pages: "103-116"
+  doi: 10.1016/j.cviu.2015.03.012
+
+- key: pathprediction
+  title: "Context-based pedestrian path prediction"
+  authors: J.F.P. Kooij, N. Schneider, F. Flohr, D.M. Gavrila
+  booktitle: "European Conference on Computer Vision (ECCV)"
+  year: 2014
+  pages: "618-633"
+  doi: 10.1007/978-3-319-10599-4_40
+  project: "http://gavrila.net/Datasets/Daimler_Pedestrian_Benchmark_D/Pedestrian_Path_Predict_ECCV_1/pedestrian_path_predict_eccv_1.html"
+
+- key: orientationestimation
+  title: "Joint probabilistic pedestrian head and body orientation estimation"
+  authors: F. Flohr, M. Dumitru-Guzu, J.F.P. Kooij, D.M. Gavrila
+  booktitle: "IEEE Intelligent Vehicles Symposium (IVS)"
+  year: 2014
+  pages: "617-622"
+  doi: 10.1109/IVS.2014.6856532
+
+- key: pedestriandynamics
+  title: "Analysis of pedestrian dynamics from a vehicle perspective"
+  authors: J.F.P. Kooij, N. Schneider, D.M. Gavrila
+  booktitle: "IEEE Intelligent Vehicles Symposium (IVS)"
+  year: 2014
+  pages: "1445-1450"
+  doi: 10.1109/IVS.2014.6856505
+
+- key: behavioranalysis
+  title: "A Non-parametric Hierarchical Model to Discover Behavior Dynamics from Tracks"
+  authors: J.F.P. Kooij, G. Englebienne, D.M. Gavrila
+  booktitle: "Proceedings of the European Conference on Computer Vision (ECCV)"
+  pages: "270-283"
+  year: 2012
+  doi: 10.1007/978-3-642-33783-3_20
+
+- key: cepolicysearch
+  title: "The cross-entropy method for policy search in decentralized POMDPs"
+  authors: F.A. Oliehoek, J.F.P. Kooij, N. Vlassis
+  journal: "Informatica"
+  year: 2008
+  volume: 32
+  number: 4
+  pages: "341-357"
+  puburl: "https://pure.uva.nl/ws/files/4113912/64006_294318.pdf"
+
+- key: decpomdp
+  title: "A cross-entropy approach to solving Dec-POMDPs"
+  authors: F.A. Oliehoek, J.F.P. Kooij, N. Vlassis
+  booktitle: "Advances in Intelligent and Distributed Computing"
+  year: 2008
+  pages: "145-154"
+  doi: 10.1007/978-3-540-74930-1_15
