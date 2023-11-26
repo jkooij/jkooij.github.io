@@ -9,8 +9,8 @@ pages: 4961-4968
 project: https://intelligent-vehicles.org/datasets/view-of-delft/
 screenshot: files/publications/vod-dataset.jpg
 title: Multi-class Road User Detection with 3+1D Radar in the View-of-Delft Dataset
-video: https://www.youtube.com/watch?v=R8r3lrkicJ0
 volume: 7
 year: 2022
+youtube: R8r3lrkicJ0
 ---
 

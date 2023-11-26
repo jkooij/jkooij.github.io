@@ -8,8 +8,8 @@ number: 1
 pages: 45-46
 screenshot: files/publications/fastcompactsegmentation.jpg
 title: Fast and Compact Image Segmentation using Instance Stixels
-video: https://www.youtube.com/watch?v=irrPsoWQoLY
 volume: 7
 year: 2021
+youtube: irrPsoWQoLY
 ---
 

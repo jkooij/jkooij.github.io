@@ -10,8 +10,8 @@ number: 2
 pages: 2587-2594
 screenshot: files/publications/acousticvehicledetection.jpg
 title: 'Hearing What You Cannot See: Acoustic Vehicle Detection Around Corners'
-video: https://www.youtube.com/watch?v=BXkeWf24MLg
 volume: 6
 year: 2021
+youtube: BXkeWf24MLg
 ---
 

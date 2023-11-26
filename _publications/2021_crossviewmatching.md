@@ -9,8 +9,8 @@ pages: 5921-5928
 screenshot: files/publications/crossviewmatching.png
 title: Cross-View Matching for Vehicle Localization by Learning Geographically Local
   Representations
-video: https://www.youtube.com/watch?v=54pPcjdDqiA
 volume: 6
 year: 2021
+youtube: 54pPcjdDqiA
 ---
 

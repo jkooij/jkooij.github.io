@@ -7,7 +7,7 @@ key: instancestixels
 pages: 2542-2549
 screenshot: files/publications/instancestixels.png
 title: 'Instance Stixels: Segmenting and Grouping Stixels into Objects'
-video: https://www.youtube.com/watch?v=irrPsoWQoLY
 year: 2019
+youtube: irrPsoWQoLY
 ---
 

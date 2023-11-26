@@ -7,7 +7,7 @@ key: pushtheboundary
 screenshot: files/publications/pushtheboundary.png
 title: 'Push-the-Boundary: Boundary-aware Feature Propagation for Semantic Segmentation
   of 3D Point Clouds'
-video: https://youtu.be/hqpyDbztdLQ
 year: 2022
+youtube: hqpyDbztdLQ
 ---
 

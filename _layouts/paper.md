@@ -12,8 +12,8 @@ https://github.com/jekyll/jekyll/issues/6166#issuecomment-322771527
 
 {% include citation.html pub=page notitle=true noinfo=true %}
 
-{% if page.video -%}<br/>
- <iframe width="560" height="315" src="{{page.video}}" title="{{page.title}}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{% if page.youtube -%}<br/>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/{{page.youtube}}" title="{{page.title}}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 {%- endif %}
 {% if page.screenshot -%}<br/><img class="screenshot" src='../../{{page.screenshot}}' width="400px" />{%- endif %}
 

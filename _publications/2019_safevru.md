@@ -8,7 +8,7 @@ pages: 1660-1666
 screenshot: files/publications/safevru.jpg
 title: 'SafeVRU: A Research Platform for the Interaction of Self-Driving Vehicles
   with Vulnerable Road Users'
-video: https://www.youtube.com/watch?v=dLLFt_OVFxk
 year: 2019
+youtube: dLLFt_OVFxk
 ---
 

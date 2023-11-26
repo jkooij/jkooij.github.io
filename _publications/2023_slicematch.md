@@ -8,7 +8,7 @@ key: slicematch
 pages: 17225-17234
 screenshot: files/publications/slicematch.jpg
 title: 'SliceMatch: Geometry-guided Aggregation for Cross-View Pose Estimation'
-video: https://www.youtube.com/watch?v=gql1dkQQNrA
 year: 2023
+youtube: gql1dkQQNrA
 ---
 

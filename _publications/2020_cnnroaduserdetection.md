@@ -8,8 +8,8 @@ number: 2
 pages: 1263-1270
 screenshot: files/publications/cnnroaduserdetection.png
 title: CNN based Road User Detection using the 3D Radar Cube
-video: https://www.youtube.com/watch?v=dLLFt_OVFxk
 volume: 5
 year: 2020
+youtube: dLLFt_OVFxk
 ---
 
