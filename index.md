@@ -2,6 +2,7 @@
 layout: single
 author_profile: true
 title: "About me"
+classes: wide
 header:
     overlay_image: /files/prius_before_library_clean_lp_1350x665.jpg
 ---

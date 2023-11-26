@@ -1,0 +1,45 @@
+{% assign pub = include.pub %}
+<!-- Publication key: {{pub.key}}-->
+{%- if include.notitle -%}
+{{ pub.authors }}
+{%- else -%}
+_{{pub.title}}_, {{ pub.authors }}
+{%- endif -%}
+{%- if pub.journal -%}, **{{pub.journal}}**
+ {%- if pub.volume -%}, {{pub.volume}}{%- endif -%}
+ {%- if pub.number -%}({{pub.number}}){%- endif -%}
+ {%- if pub.pages -%}, pp. {{pub.pages}}{%- endif -%}
+ , {{pub.year}}.
+{%- endif -%}
+{%- if pub.booktitle -%}, **{{pub.booktitle}}**
+ {%- if pub.pages -%}, pp. {{pub.pages}}{%- endif -%}
+ , {{pub.year}}.
+{%- endif -%}
+{%- if pub.doi %} doi: [{{pub.doi}}](https://doi.org/{{pub.doi}}){%- endif -%}
+{%- if pub.note  %} _{{pub.note}}_ {%  endif -%}
+<br/>
+{%- if include.noinfo -%}
+{%- else %}
+<a class='btn btn--success btn--small' href='{{pub.url}}'><i class="fas fa-info" aria-hidden="true"></i> More info ...</a>
+&nbsp;
+{%- endif %}
+{%- if pub.puburl -%}
+<a class='btn btn--primary btn--small' href='{{pub.puburl}}'><i class="fas fa-file" aria-hidden="true"></i> pub</a>
+&nbsp;
+{%- endif %}
+{%- if pub.arxiv -%}
+<a class='btn btn--primary btn--small' href='{{pub.arxiv}}'><i class="fas fa-file" aria-hidden="true"></i> arXiv</a>
+&nbsp;
+{%- endif %}
+{%- if pub.code -%}
+<a class='btn btn--primary btn--small' href='{{pub.code}}'><i class="fas fa-code" aria-hidden="true"></i> Code</a>
+&nbsp;
+{%- endif %}
+{%- if pub.video -%}
+<a class='btn btn--primary btn--small' href='{{pub.video}}'><i class="fas fa-video" aria-hidden="true"></i> Video</a>
+&nbsp;
+{%- endif %}
+{%- if pub.project -%}
+<a class='btn btn--primary btn--small' href='{{pub.project}}'><i class="fas fa-link" aria-hidden="true"></i> Project pub</a>
+&nbsp;
+{%- endif -%}

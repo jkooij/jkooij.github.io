@@ -56,6 +56,11 @@ atom_feed:
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:path/
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -257,4 +262,12 @@ defaults:
       comments: # true
       share: true
       related: true
-
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: paper
+      author_profile: true
+      classes: wide
+      share: false
