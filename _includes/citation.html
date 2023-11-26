@@ -24,8 +24,13 @@ _{{pub.title}}_, {{ pub.authors }}
 &nbsp;
 {%- endif %}
 {%- if pub.puburl -%}
-<a class='btn btn--primary btn--small' href='{{pub.puburl}}'><i class="fas fa-file" aria-hidden="true"></i> pub</a>
+<a class='btn btn--primary btn--small' href='{{pub.puburl}}'><i class="fas fa-file" aria-hidden="true"></i> Paper</a>
 &nbsp;
+{%- else -%}
+{%- if pub.doi -%}
+<a class='btn btn--primary btn--small' href='https://doi.org/{{pub.doi}}'><i class="fas fa-file" aria-hidden="true"></i> Paper</a>
+&nbsp;
+{%- endif -%}
 {%- endif %}
 {%- if pub.arxiv -%}
 <a class='btn btn--primary btn--small' href='{{pub.arxiv}}'><i class="fas fa-file" aria-hidden="true"></i> arXiv</a>
@@ -40,6 +45,6 @@ _{{pub.title}}_, {{ pub.authors }}
 &nbsp;
 {%- endif %}
 {%- if pub.project -%}
-<a class='btn btn--primary btn--small' href='{{pub.project}}'><i class="fas fa-link" aria-hidden="true"></i> Project pub</a>
+<a class='btn btn--primary btn--small' href='{{pub.project}}'><i class="fas fa-link" aria-hidden="true"></i> Project page</a>
 &nbsp;
 {%- endif -%}
