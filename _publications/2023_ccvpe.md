@@ -9,5 +9,6 @@ note: to appear
 screenshot: files/publications/ccvpe.png
 title: Convolutional Cross-View Pose Estimation
 year: 2023
+youtube: 9p7bccGZ82Q
 ---
 
