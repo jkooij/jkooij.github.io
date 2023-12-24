@@ -1,4 +1,5 @@
 ---
+_order: 22
 authors: Z. Xia, O. Booij, M. Manfredi, J.F.P. Kooij
 booktitle: ECCV 2020 Workshops
 code: https://github.com/tudelft-iv/Visual-Localization-with-Spatial-Prior

@@ -1,4 +1,5 @@
 ---
+_order: 3
 authors: J.F.P. Kooij, N. Schneider, D.M. Gavrila
 booktitle: IEEE Intelligent Vehicles Symposium (IVS)
 doi: 10.1109/IVS.2014.6856505

@@ -1,4 +1,5 @@
 ---
+_order: 6
 authors: J.F.P. Kooij, G. Englebienne, D.M. Gavrila
 doi: 10.1016/j.cviu.2015.03.012
 journal: Computer Vision and Image Understanding (CVIU)

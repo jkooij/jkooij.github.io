@@ -1,4 +1,5 @@
 ---
+_order: 20
 authors: T.M. Hehn, J.F.P. Kooij, F.A. Hamprecht
 code: https://github.com/tomsal/endtoenddecisiontrees
 doi: 10.1007/s11263-019-01237-6

@@ -14,9 +14,12 @@ screenshot_path_patterns = (
 with open(inp_path, 'r') as file:
     pubs = yaml.load(file, Loader=yaml.Loader)
 
+# add ordering field to publications, as they appear in the souce yml file
+for j, pub in enumerate(reversed(pubs)):
+    pub['_order'] = j
+
 # find screenshots
 for pub in pubs:
-    print(pub)
     for screenshot_path_pattern in screenshot_path_patterns:
         screenshot_path = screenshot_path_pattern.format(key=pub['key'])
         if os.path.isfile(screenshot_path):

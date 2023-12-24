@@ -1,4 +1,5 @@
 ---
+_order: 11
 authors: J.F.P. Kooij, J.C. van Gemert
 booktitle: European Conference on Computer Vision (ECCV)
 code: https://github.com/jkooij/depthaware-momag

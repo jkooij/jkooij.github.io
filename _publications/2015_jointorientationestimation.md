@@ -1,4 +1,5 @@
 ---
+_order: 7
 authors: F. Flohr, M. Dumitru-Guzu, JFP Kooij
 doi: 10.1109/TITS.2014.2379441
 journal: IEEE Transactions on Intelligent Transportation Systems (T-ITS)

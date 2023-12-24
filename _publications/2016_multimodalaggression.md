@@ -1,4 +1,5 @@
 ---
+_order: 9
 authors: J.F.P. Kooij, M.C. Liem, J.D. Krijnders, T.C. Andringa
 doi: 10.1016/j.cviu.2015.06.009
 journal: Computer Vision and Image Understanding (CVIU)
