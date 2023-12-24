@@ -1,3 +1,12 @@
+- key: ccvpe
+  title: "Convolutional Cross-View Pose Estimation"
+  authors: Z. Xia, O. Booij, J.F.P. Kooij
+  journal: "IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)"
+  year: 2023
+  arxiv: "https://arxiv.org/abs/2303.05915"
+  code: "https://github.com/tudelft-iv/CCVPE"
+  note: "to appear"
+
 - key: muviecast
   title: "MuVieCAST: Multi-View Consistent Artistic Style Transfer"
   authors: N. Ibrahimli, J.F.P. Kooij, L. Nan
