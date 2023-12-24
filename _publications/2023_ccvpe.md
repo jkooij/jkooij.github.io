@@ -6,6 +6,7 @@ code: https://github.com/tudelft-iv/CCVPE
 journal: IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)
 key: ccvpe
 note: to appear
+screenshot: files/publications/ccvpe.png
 title: Convolutional Cross-View Pose Estimation
 year: 2023
 ---
