@@ -7,6 +7,7 @@
   code: "https://github.com/tudelft-iv/CCVPE"
   note: "to appear"
   youtube: "9p7bccGZ82Q"
+  doi: "10.1109/TPAMI.2023.3346924"
 
 - key: muviecast
   title: "MuVieCAST: Multi-View Consistent Artistic Style Transfer"
