@@ -8,7 +8,7 @@ header:
 ---
 
 I am an Associate Professor at the [Intelligent Vehicles group](http://intelligent-vehicles.org/), 
-part of the [Cognitive Robotics department](http://cor.tudelft.nl/) of the 3ME faculty, TU Delft, The Netherlands.
+part of the [Cognitive Robotics department](http://cor.tudelft.nl/) of the Mechanical Engineering faculty, TU Delft, The Netherlands.
 You can find [my staff page](https://www.tudelft.nl/en/staff/j.f.p.kooij/) on the TU Delft website.
 
 I work on multi-modal environment perception for intelligent vehicles, and mostly target crowded urban settings.
@@ -23,7 +23,7 @@ To understand the environment, the autonomous vehicle needs to create useful rep
 
 ### Past projects and affiliations
 
-Before joining 3ME, I was a PostDoc at the computer vision lab of the EWI Faculty of TU Delft.
+Before joining the ME faculty, I was a PostDoc at the computer vision lab of the EWI Faculty of TU Delft.
 In this period, I worked on setting up the new Technology In Motion (TIM) lab at LUMC hospital in Leiden, and developed new signal processing techniques to detect subtle tremors in patients.
 My PhD at the University of Amsterdam addressed automated analysis of pedestrian tracks, using probabilistic graphical models for unsupervised learning and online predictive Bayesian inference.
 For the NWO Cassandra and EU-FP7 ADABTS projects, I developed graphical models for the integration of audio-visual cues, and for anomaly detection, in surveillance applications. 
@@ -34,6 +34,6 @@ exploiting various contextual cues such as pedestrian head orientation and locat
 ## Contact address
 
     dr. J. F. P. Kooij
-    Faculty of Mechanical, Maritime and Materials Engineering
+    Faculty of Mechanical Engineering
     Room 34-E-0-260, Mekelweg 2
     2627 CD Delft, The Netherlands
