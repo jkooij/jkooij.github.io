@@ -1,3 +1,10 @@
+- key: furtherthancfar
+  title: "See further than CFAR: A data-driven radar detector trained by Lidar"
+  authors: I. Roldan, A. Palffy, J.F.P. Kooij, D.M. Gavrila, F. Fioranelli, A. Yaravoy
+  booktitle: IEEE Radar Conference
+  year: 2024
+  note: "to appear"
+
 - key: ccvpe
   title: "Convolutional Cross-View Pose Estimation"
   authors: Z. Xia, O. Booij, J.F.P. Kooij
