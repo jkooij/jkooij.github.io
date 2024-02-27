@@ -1,3 +1,10 @@
+- key: sue
+  title: "On the Estimation of Image-matching Uncertainty in Visual Place Recognition"
+  authors: M. Zaffar, L. Nan, J.F.P. Kooij
+  booktitle: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+  year: 2024
+  note: "to appear"
+
 - key: furtherthancfar
   title: "See further than CFAR: A data-driven radar detector trained by Lidar"
   authors: I. Roldan, A. Palffy, J.F.P. Kooij, D.M. Gavrila, F. Fioranelli, A. Yaravoy
