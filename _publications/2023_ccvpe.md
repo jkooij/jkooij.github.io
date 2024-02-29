@@ -7,7 +7,7 @@ doi: 10.1109/TPAMI.2023.3346924
 journal: IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)
 key: ccvpe
 note: to appear
-screenshot: files/publications/ccvpe.png
+screenshot: files/publications/ccvpe.jpg
 title: Convolutional Cross-View Pose Estimation
 year: 2023
 youtube: 9p7bccGZ82Q
