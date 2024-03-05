@@ -11,6 +11,7 @@
   booktitle: IEEE Radar Conference
   year: 2024
   note: "to appear"
+  arxiv: "https://arxiv.org/abs/2402.12970"
 
 - key: ccvpe
   title: "Convolutional Cross-View Pose Estimation"
