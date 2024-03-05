@@ -8,7 +8,7 @@ classes: wide
 You can find an up-to-date list on my [Google Scholar profile](https://scholar.google.nl/citations?user=Uq5KrMoAAAAJ&hl=en).<br/>
 <a class="btn btn--info" onclick="$('.screenshot').toggle()" ><i class="fas fa-images" aria-hidden="true"></i> Toggle screenshots</a>
 
-{% assign pubs_by_year = site.publications | group_by: "year" | sort: "name" %}
+{% assign pubs_by_year = site.publications | group_by: "year" | sort: "name" | reverse %}
 {% for y in pubs_by_year %}
 {% assign currentyear = y.name %}
 ## {{currentyear}}
