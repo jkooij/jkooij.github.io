@@ -17,7 +17,7 @@ https://github.com/jekyll/jekyll/issues/6166#issuecomment-322771527
 {%- endif %}
 {% if page.screenshot -%}<br/>[<img class="screenshot" src='../../{{page.screenshot}}' width="400px" alt="{{page.title}}"/>](../../{{page.screenshot}}){%- endif %}
 
-## Cite me
+## Cite this work
 
 
 {% if page.journal %}
