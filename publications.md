@@ -15,7 +15,7 @@ You can find an up-to-date list on my [Google Scholar profile](https://scholar.g
 
 {% assign pubs_by_order = y.items | sort: _order | reverse %}
 {% for pub in pubs_by_order %}
-- {% include citation.html pub=pub %}
+- {% include citation.html pub=pub %} ({{pub._order}})
   {%- if pub.screenshot -%}<br/>[<img class="screenshot" src='../{{pub.screenshot}}' width="200px" alt="{{pub.title}}"/>](../{{pub.screenshot}}){%- endif -%}
 {% endfor %}
 {% endfor %}
