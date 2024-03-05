@@ -29,6 +29,9 @@
   authors: N. Ibrahimli, J.F.P. Kooij, L. Nan
   booktitle: "IEEE International Conference on 3D Vision (3DV)"
   year: 2024
+  arxiv: "https://arxiv.org/abs/2312.05046"
+  project: "https://muviecast.github.io/"
+  code: "https://github.com/Mirmix/muviecast"
   note: "to appear"
 
 - key: ddlmvs
