@@ -5,6 +5,14 @@
   year: 2024
   note: "to appear"
 
+- key: vod-prediction
+  title: "Multi-class Road User Detection with 3+1D Radar in the View-of-Delft Dataset"
+  authors: H. Boekema, B. Martens, J.F.P. Kooij, D.M. Gavrila
+  journal: "IEEE Robotics and Automation Letters (RA-L)"
+  year: 2024
+  project: "https://intelligent-vehicles.org/datasets/view-of-delft/"
+  note: "to appear"
+
 - key: furtherthancfar
   title: "See further than CFAR: A data-driven radar detector trained by Lidar"
   authors: I. Roldan, A. Palffy, J.F.P. Kooij, D.M. Gavrila, F. Fioranelli, A. Yaravoy
