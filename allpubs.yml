@@ -6,6 +6,14 @@
   note: "to appear"
   arXiv: "https://arxiv.org/abs/2404.00546"
 
+- key: unibev
+  title: "UniBEV: Multi-modal 3D Object Detection with Uniform BEV Encoders for Robustness against Missing Sensor Modalities"
+  authors: S. Wang, H. Caesar, L. Nan, J.F.P. Kooij
+  booktitle: "IEEE Intelligent Vehicles Symposium (IVS)"
+  year: 2024
+  note: "to appear"
+  arXiv: "https://arxiv.org/abs/2309.14516"
+
 - key: vod-prediction
   title: "Multi-class Road User Detection with 3+1D Radar in the View-of-Delft Dataset"
   authors: H. Boekema, B. Martens, J.F.P. Kooij, D.M. Gavrila
