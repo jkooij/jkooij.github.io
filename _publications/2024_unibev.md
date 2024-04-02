@@ -1,6 +1,6 @@
 ---
 _order: 44
-arXiv: https://arxiv.org/abs/2309.14516
+arxiv: https://arxiv.org/abs/2309.14516
 authors: S. Wang, H. Caesar, L. Nan, J.F.P. Kooij
 booktitle: IEEE Intelligent Vehicles Symposium (IVS)
 key: unibev
