@@ -4,6 +4,7 @@
   booktitle: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
   year: 2024
   note: "to appear"
+  arXiv: "https://arxiv.org/abs/2404.00546"
 
 - key: vod-prediction
   title: "Multi-class Road User Detection with 3+1D Radar in the View-of-Delft Dataset"
