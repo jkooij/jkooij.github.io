@@ -1,6 +1,7 @@
 ---
 _order: 43
 authors: H. Boekema, B. Martens, J.F.P. Kooij, D.M. Gavrila
+doi: 10.1109/LRA.2024.3385693
 journal: IEEE Robotics and Automation Letters (RA-L)
 key: vod-prediction
 note: to appear

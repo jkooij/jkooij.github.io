@@ -3,7 +3,7 @@
   authors: M. Zaffar, L. Nan, J.F.P. Kooij
   booktitle: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
   year: 2024
-  note: "to appear, selected for CVPR *Poster Highlight* (11.9% of accepted papers)"
+  note: "to appear, selected for *Poster Highlight* (11.9% of accepted papers)"
   arxiv: "https://arxiv.org/abs/2404.00546"
 
 - key: unibev
@@ -21,6 +21,7 @@
   year: 2024
   project: "https://intelligent-vehicles.org/datasets/view-of-delft/"
   note: "to appear"
+  doi: "10.1109/LRA.2024.3385693"
 
 - key: furtherthancfar
   title: "See further than CFAR: A data-driven radar detector trained by Lidar"
