@@ -19,8 +19,10 @@
   authors: H. Boekema, B. Martens, J.F.P. Kooij, D.M. Gavrila
   journal: "IEEE Robotics and Automation Letters (RA-L)"
   year: 2024
+  volume: 9
+  number: 5
+  pages: 4806-4813
   project: "https://intelligent-vehicles.org/datasets/view-of-delft/"
-  note: "to appear"
   doi: "10.1109/LRA.2024.3385693"
 
 - key: furtherthancfar
