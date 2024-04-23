@@ -25,6 +25,13 @@
   project: "https://intelligent-vehicles.org/datasets/view-of-delft/"
   doi: "10.1109/LRA.2024.3385693"
 
+- key: accmultileader
+  title: "Adaptive Cruise Control Utilizing Noisy Multi-leader Measurements: A Learning-based Approach"
+  authors: Y. Ni, V.L. Knoop, J.F.P. Kooij, B. van Arem
+  journal: "IEEE Open Journal of Intelligent Transportation Systems"
+  year: 2024
+  note: "to appear"
+
 - key: furtherthancfar
   title: "See further than CFAR: A data-driven radar detector trained by Lidar"
   authors: I. Roldan, A. Palffy, J.F.P. Kooij, D.M. Gavrila, F. Fioranelli, A. Yaravoy
