@@ -31,6 +31,7 @@
   journal: "IEEE Open Journal of Intelligent Transportation Systems"
   year: 2024
   note: "to appear"
+  doi: "10.1109/OJITS.2024.3395149"
 
 - key: furtherthancfar
   title: "See further than CFAR: A data-driven radar detector trained by Lidar"
