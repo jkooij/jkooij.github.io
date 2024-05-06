@@ -8,7 +8,8 @@ number: 5
 pages: 4806-4813
 project: https://intelligent-vehicles.org/datasets/view-of-delft/
 screenshot: files/publications/vod-prediction.jpg
-title: Multi-class Road User Detection with 3+1D Radar in the View-of-Delft Dataset
+title: Multi-Class Trajectory Prediction in Urban Traffic Using the View-of-Delft
+  Prediction Dataset
 volume: 9
 year: 2024
 ---
