@@ -6,6 +6,19 @@
   note: "to appear, selected for *Poster Highlight* (11.9% of accepted papers)"
   arxiv: "https://arxiv.org/abs/2404.00546"
 
+- key: ccvpe
+  title: "Convolutional Cross-View Pose Estimation"
+  authors: Z. Xia, O. Booij, J.F.P. Kooij
+  journal: "IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)"
+  year: 2024
+  volume: 46
+  number: 5
+  pages: "3813-3831"
+  arxiv: "https://arxiv.org/abs/2303.05915"
+  code: "https://github.com/tudelft-iv/CCVPE"
+  youtube: "9p7bccGZ82Q"
+  doi: "10.1109/TPAMI.2023.3346924"
+
 - key: unibev
   title: "UniBEV: Multi-modal 3D Object Detection with Uniform BEV Encoders for Robustness against Missing Sensor Modalities"
   authors: S. Wang, H. Caesar, L. Nan, J.F.P. Kooij
@@ -40,17 +53,6 @@
   year: 2024
   note: "*received Best Student Paper award*"
   arxiv: "https://arxiv.org/abs/2402.12970"
-
-- key: ccvpe
-  title: "Convolutional Cross-View Pose Estimation"
-  authors: Z. Xia, O. Booij, J.F.P. Kooij
-  journal: "IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)"
-  year: 2023
-  arxiv: "https://arxiv.org/abs/2303.05915"
-  code: "https://github.com/tudelft-iv/CCVPE"
-  note: "to appear"
-  youtube: "9p7bccGZ82Q"
-  doi: "10.1109/TPAMI.2023.3346924"
 
 - key: muviecast
   title: "MuVieCAST: Multi-View Consistent Artistic Style Transfer"
