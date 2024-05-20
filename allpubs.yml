@@ -43,7 +43,8 @@
   authors: Y. Ni, V.L. Knoop, J.F.P. Kooij, B. van Arem
   journal: "IEEE Open Journal of Intelligent Transportation Systems"
   year: 2024
-  note: "to appear"
+  volume: 5
+  pages: 251-264
   doi: "10.1109/OJITS.2024.3395149"
 
 - key: furtherthancfar
