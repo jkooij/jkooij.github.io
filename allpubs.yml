@@ -3,7 +3,8 @@
   authors: M. Zaffar, L. Nan, J.F.P. Kooij
   booktitle: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
   year: 2024
-  note: "to appear, selected for *Poster Highlight* (top 15% of accepted papers)"
+  note: "*Poster Highlight* (top 15% of accepted papers)"
+  code: "https://github.com/MubarizZaffar/SUE"
   arxiv: "https://arxiv.org/abs/2404.00546"
 
 - key: ccvpe
