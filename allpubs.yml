@@ -1,3 +1,11 @@
+- key: adaptingcrossview
+  title: "Adapting Fine-grained Cross-view Localization to Areas without Fine Ground Truth"
+  authors: Z. Xia, Y. Shi, H. Li, J.F.P. Kooij
+  booktitle: "European Conference on Computer Vision (ECCV)"
+  year: 2024
+  note: "to appear"
+  arxiv: "https://arxiv.org/abs/2406.00474"
+
 - key: sue
   title: "On the Estimation of Image-matching Uncertainty in Visual Place Recognition"
   authors: M. Zaffar, L. Nan, J.F.P. Kooij
