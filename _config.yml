@@ -265,7 +265,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: about
     values:
       layout: paper
       author_profile: true
