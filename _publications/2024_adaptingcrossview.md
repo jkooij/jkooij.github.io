@@ -5,6 +5,7 @@ authors: Z. Xia, Y. Shi, H. Li, J.F.P. Kooij
 booktitle: European Conference on Computer Vision (ECCV)
 key: adaptingcrossview
 note: to appear
+screenshot: files/publications/adaptingcrossview.jpg
 title: Adapting Fine-grained Cross-view Localization to Areas without Fine Ground
   Truth
 year: 2024
