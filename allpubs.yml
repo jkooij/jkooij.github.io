@@ -11,9 +11,11 @@
   authors: M. Zaffar, L. Nan, J.F.P. Kooij
   booktitle: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
   year: 2024
+  pages: 17743-17753
   note: "*Poster Highlight* (top 15% of accepted papers)"
   code: "https://github.com/MubarizZaffar/SUE"
   arxiv: "https://arxiv.org/abs/2404.00546"
+  puburl: "https://openaccess.thecvf.com/content/CVPR2024/html/Zaffar_On_the_Estimation_of_Image-matching_Uncertainty_in_Visual_Place_Recognition_CVPR_2024_paper.html"
 
 - key: ccvpe
   title: "Convolutional Cross-View Pose Estimation"
@@ -94,6 +96,7 @@
   arxiv: "https://arxiv.org/abs/2211.14651"
   code: "https://github.com/tudelft-iv/SliceMatch"
   youtube: "gql1dkQQNrA"
+  puburl: "https://openaccess.thecvf.com/content/CVPR2023/html/Lentsch_SliceMatch_Geometry-Guided_Aggregation_for_Cross-View_Pose_Estimation_CVPR_2023_paper.html"
 
 - key: copr
   title: "CoPR: Toward Accurate Visual Localization With Continuous Place-descriptor Regression"
