@@ -1,3 +1,11 @@
+- key: radelft
+  title: "A Deep Automotive Radar Detector using the RaDelft Dataset"
+  authors: I. Roldan, A. Palffy, J.F.P. Kooij, D.M. Gavrila, F. Fioranelli, A. Yaravoy
+  journal: "IEEE Transactions on Radar Systems"
+  year: 2024
+  note: "to appear"
+  arxiv: "https://arxiv.org/abs/2406.04723"
+
 - key: adaptingcrossview
   title: "Adapting Fine-grained Cross-view Localization to Areas without Fine Ground Truth"
   authors: Z. Xia, Y. Shi, H. Li, J.F.P. Kooij
