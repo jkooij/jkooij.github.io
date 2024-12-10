@@ -16,6 +16,8 @@
   year: 2024
   code: "https://github.com/tudelft-iv/Adapting_CVL"
   arxiv: "https://arxiv.org/abs/2406.00474"
+  doi: "10.1007/978-3-031-72751-1_23"
+  puburl: "https://link.springer.com/chapter/10.1007/978-3-031-72751-1_23"
 
 - key: sue
   title: "On the Estimation of Image-matching Uncertainty in Visual Place Recognition"
