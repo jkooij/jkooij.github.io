@@ -82,11 +82,13 @@
   title: "MuVieCAST: Multi-View Consistent Artistic Style Transfer"
   authors: N. Ibrahimli, J.F.P. Kooij, L. Nan
   booktitle: "IEEE International Conference on 3D Vision (3DV)"
+  pages: 1136-1145
   year: 2024
   arxiv: "https://arxiv.org/abs/2312.05046"
   project: "https://muviecast.github.io/"
   code: "https://github.com/Mirmix/muviecast"
-  note: "to appear"
+  doi: "10.1109/3DV62453.2024.00090"
+  puburl: "https://www.computer.org/csdl/proceedings-article/3dv/2024/624500b136/1XIqHDD2x56"
 
 - key: ddlmvs
   title: "DDL-MVS: Depth Discontinuity Learning for Multi-View Stereo Networks"
