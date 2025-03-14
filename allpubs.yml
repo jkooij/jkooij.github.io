@@ -1,3 +1,10 @@
+- key: voteflow
+  title: "On the Estimation of Image-matching Uncertainty in Visual Place Recognition"
+  authors: Y. Lin, S. Wang, L. Nan, J.F.P. Kooij, H. Caesar
+  booktitle: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+  year: 2025
+  note: "*to appear*"
+
 - key: radelft
   title: "A Deep Automotive Radar Detector using the RaDelft Dataset"
   authors: I. Roldan, A. Palffy, J.F.P. Kooij, D.M. Gavrila, F. Fioranelli, A. Yaravoy
