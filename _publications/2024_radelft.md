@@ -7,6 +7,7 @@ journal: IEEE Transactions on Radar Systems
 key: radelft
 pages: 1062-1075
 puburl: https://ieeexplore.ieee.org/document/10731871
+screenshot: files/publications/radelft.jpg
 title: A Deep Automotive Radar Detector using the RaDelft Dataset
 volume: 2
 year: 2024
