@@ -5,6 +5,7 @@ booktitle: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
   (CVPR)
 key: voteflow
 note: '*to appear*'
+screenshot: files/publications/voteflow.jpg
 title: 'VoteFlow: Enforcing Local Rigidity in Self-Supervised Scene Flow'
 year: 2025
 ---
