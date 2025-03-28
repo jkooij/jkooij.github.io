@@ -1,5 +1,5 @@
 ---
-_order: 16
+_order: 17
 authors: T.H. Hehn, J.F.P. Kooij, D.M. Gavrila
 booktitle: IEEE Intelligent Vehicles Symposium (IVS)
 code: https://github.com/tudelft-iv/instance-stixels

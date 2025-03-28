@@ -1,5 +1,5 @@
 ---
-_order: 43
+_order: 44
 authors: H. Boekema, B. Martens, J.F.P. Kooij, D.M. Gavrila
 doi: 10.1109/LRA.2024.3385693
 journal: IEEE Robotics and Automation Letters (RA-L)

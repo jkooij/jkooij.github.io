@@ -1,5 +1,5 @@
 ---
-_order: 40
+_order: 41
 arxiv: https://arxiv.org/abs/2312.05046
 authors: N. Ibrahimli, J.F.P. Kooij, L. Nan
 booktitle: IEEE International Conference on 3D Vision (3DV)

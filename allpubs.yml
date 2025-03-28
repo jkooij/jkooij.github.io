@@ -420,6 +420,13 @@
   doi: 10.1109/TPAMI.2015.2443801
   project: "http://gavrila.net/Datasets/Univ__of_Amsterdam_Multi-Cam_P/UvA_Object_Track_Analysis_Soft/uva_object_track_analysis_soft.html"
 
+- key: phdkooij
+  title: "Generative models for pedestrian track analysis"
+  journal: "PhD Thesis, University of Amsterdam"
+  authors: J.F.P. Kooij
+  year: 2015
+  puburl: "https://dare.uva.nl/search?identifier=0987b174-5b10-4c7f-be13-27d824e213ed"
+
 - key: jointorientationestimation
   title: "A probabilistic framework for joint pedestrian head and body orientation estimation"
   authors: F. Flohr, M. Dumitru-Guzu, JFP Kooij

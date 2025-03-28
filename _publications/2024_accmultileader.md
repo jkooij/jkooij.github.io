@@ -1,5 +1,5 @@
 ---
-_order: 42
+_order: 43
 authors: Y. Ni, V.L. Knoop, J.F.P. Kooij, B. van Arem
 doi: 10.1109/OJITS.2024.3395149
 journal: IEEE Open Journal of Intelligent Transportation Systems

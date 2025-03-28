@@ -1,5 +1,5 @@
 ---
-_order: 47
+_order: 48
 arxiv: https://arxiv.org/abs/2406.00474
 authors: Z. Xia, Y. Shi, H. Li, J.F.P. Kooij
 booktitle: European Conference on Computer Vision (ECCV)

@@ -1,5 +1,5 @@
 ---
-_order: 24
+_order: 25
 arxiv: https://arxiv.org/abs/2007.15739
 authors: Y. Schulz, A.K. Mattar, T.M. Hehn, J.F.P. Kooij
 code: https://github.com/tudelft-iv/occluded_vehicle_acoustic_detection

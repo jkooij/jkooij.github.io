@@ -1,5 +1,5 @@
 ---
-_order: 19
+_order: 20
 authors: F.M. Hafner, A. Bhuiyan, J.F.P. Kooij, E. Granger
 booktitle: IEEE International Conference on Advanced Video and Signal-based Surveillance
   (AVSS)

@@ -1,5 +1,5 @@
 ---
-_order: 26
+_order: 27
 authors: T.H. Hehn, J.F.P. Kooij, D.M. Gavrila
 code: https://github.com/tudelft-iv/instance-stixels
 doi: 10.1109/TIV.2021.3067223

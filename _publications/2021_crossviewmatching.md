@@ -1,5 +1,5 @@
 ---
-_order: 28
+_order: 29
 authors: Z. Xia, O. Booij, M. Manfredi, J.F.P. Kooij
 code: https://github.com/tudelft-iv/Visual-Localization-with-Spatial-Prior
 doi: 10.1109/LRA.2021.3088076
