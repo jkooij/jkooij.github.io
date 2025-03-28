@@ -5,7 +5,7 @@ booktitle: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
   (CVPR)
 key: voteflow
 note: '*to appear*'
-title: On the Estimation of Image-matching Uncertainty in Visual Place Recognition
+title: 'VoteFlow: Enforcing Local Rigidity in Self-Supervised Scene Flow'
 year: 2025
 ---
 

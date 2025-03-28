@@ -1,5 +1,5 @@
 - key: voteflow
-  title: "On the Estimation of Image-matching Uncertainty in Visual Place Recognition"
+  title: "VoteFlow: Enforcing Local Rigidity in Self-Supervised Scene Flow"
   authors: Y. Lin, S. Wang, L. Nan, J.F.P. Kooij, H. Caesar
   booktitle: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
   year: 2025
