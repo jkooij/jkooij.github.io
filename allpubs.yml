@@ -3,6 +3,8 @@
   authors: Y. Lin, S. Wang, L. Nan, J.F.P. Kooij, H. Caesar
   booktitle: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
   year: 2025
+  arxiv: "https://arxiv.org/abs/2503.22328"
+  code: "https://github.com/tudelft-iv/VoteFlow"
   note: "*to appear*"
 
 - key: radelft
