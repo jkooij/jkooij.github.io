@@ -7,6 +7,7 @@ authors: O. de Groot, A. Bertipaglia, H. Boekema, V. Jain, M. Kegl, V. Kotian, T
 booktitle: IEEE Intelligent Vehicles Symposium (IVS)
 key: tudvruremoteop
 note: '*to appear*'
+screenshot: files/publications/tudvruremoteop.jpg
 title: A Vehicle System for Navigating Among Vulnerable Road Users Including Remote
   Operation
 year: 2025
