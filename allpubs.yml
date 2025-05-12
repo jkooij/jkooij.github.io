@@ -11,8 +11,12 @@
   title: "Road User Specific Trajectory Prediction in Mixed Traffic Using Map Data"
   authors: H. Boekema, E.Y. Moustafa,  J.F.P. Kooij, D.M. Gavrila
   journal: "IEEE Robotics and Automation Letters (RA-L)"
+  volume: 10
+  number: 6
+  pages: 6159-6166
   year: 2025
-  note: "*to appear*"
+  month: 6
+  doi: "10.1109/LRA.2025.3564746"
 
 - key: tudvruremoteop
   title: "A Vehicle System for Navigating Among Vulnerable Road Users Including Remote Operation"
