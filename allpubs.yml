@@ -2,10 +2,11 @@
   title: "VoteFlow: Enforcing Local Rigidity in Self-Supervised Scene Flow"
   authors: Y. Lin, S. Wang, L. Nan, J.F.P. Kooij, H. Caesar
   booktitle: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+  pages: 17155-17164
   year: 2025
+  puburl: "https://openaccess.thecvf.com/content/CVPR2025/html/Lin_VoteFlow_Enforcing_Local_Rigidity_in_Self-Supervised_Scene_Flow_CVPR_2025_paper.html"
   arxiv: "https://arxiv.org/abs/2503.22328"
   code: "https://github.com/tudelft-iv/VoteFlow"
-  note: "*to appear*"
 
 - key: rustpred
   title: "Road User Specific Trajectory Prediction in Mixed Traffic Using Map Data"
