@@ -6,7 +6,8 @@ booktitle: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
   (CVPR)
 code: https://github.com/tudelft-iv/VoteFlow
 key: voteflow
-note: '*to appear*'
+pages: 17155-17164
+puburl: https://openaccess.thecvf.com/content/CVPR2025/html/Lin_VoteFlow_Enforcing_Local_Rigidity_in_Self-Supervised_Scene_Flow_CVPR_2025_paper.html
 screenshot: files/publications/voteflow.jpg
 title: 'VoteFlow: Enforcing Local Rigidity in Self-Supervised Scene Flow'
 year: 2025
