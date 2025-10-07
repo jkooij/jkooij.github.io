@@ -11,5 +11,6 @@ puburl: https://openaccess.thecvf.com/content/CVPR2025/html/Lin_VoteFlow_Enforci
 screenshot: files/publications/voteflow.jpg
 title: 'VoteFlow: Enforcing Local Rigidity in Self-Supervised Scene Flow'
 year: 2025
+youtube: 38dQqMKGEEg
 ---
 

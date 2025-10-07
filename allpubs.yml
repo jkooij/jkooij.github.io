@@ -16,6 +16,7 @@
   puburl: "https://openaccess.thecvf.com/content/CVPR2025/html/Lin_VoteFlow_Enforcing_Local_Rigidity_in_Self-Supervised_Scene_Flow_CVPR_2025_paper.html"
   arxiv: "https://arxiv.org/abs/2503.22328"
   code: "https://github.com/tudelft-iv/VoteFlow"
+  youtube: "38dQqMKGEEg"
 
 - key: rustpred
   title: "Road User Specific Trajectory Prediction in Mixed Traffic Using Map Data"
