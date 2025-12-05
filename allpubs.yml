@@ -13,9 +13,10 @@
   authors: M. Zaffar, L. Nan, S. Scherer, J.F.P. Kooij
   booktitle: "Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops"
   year: 2025
+  month: 10
+  pages: 7234-7243
   arxiv: "https://arxiv.org/abs/2510.03751"
   puburl: "https://localizoo.com/workshop/"
-  note: "*to appear*"
 
 - key: voteflow
   title: "VoteFlow: Enforcing Local Rigidity in Self-Supervised Scene Flow"
