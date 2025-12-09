@@ -102,6 +102,7 @@
   booktitle: "IEEE Intelligent Vehicles Symposium (IVS)"
   year: 2024
   arxiv: "https://arxiv.org/abs/2309.14516"
+  code: "https://github.com/tudelft-iv/UniBEV"
 
 - key: vod-prediction
   title: "Multi-Class Trajectory Prediction in Urban Traffic Using the View-of-Delft Prediction Dataset"
