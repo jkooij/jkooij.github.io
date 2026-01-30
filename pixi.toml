@@ -1,0 +1,12 @@
+[workspace]
+authors = ["Julian Kooij <J.F.P.Kooij@tudelft.nl>"]
+channels = ["conda-forge"]
+name = "jkooij.github.io"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+convert_pubsyaml = "python convert_pubsyaml.py"
+
+[dependencies]
+pyyaml = ">=6.0.3,<7"
