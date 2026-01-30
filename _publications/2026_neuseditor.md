@@ -7,6 +7,7 @@ code: https://github.com/Mirmix/neuseditor
 key: neuseditor
 note: '*to appear*'
 project: https://neuseditor.github.io/
+screenshot: files/publications/neuseditor.jpg
 title: 'NeuSEditor: From Multi-View Images to Text-Guided Neural Surface Edits'
 year: 2026
 ---
