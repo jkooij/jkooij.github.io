@@ -1,3 +1,11 @@
+- key: uroadpred
+  title: "Uncertainty-Aware Autonomous Vehicles: Predicting the Road Ahead"
+  authors: S. K, Manchingal, A. Amaritei, M. Gohad, M. Sultana, J. F. P. Kooij, F. Cuzzolin, A. Bradley
+  booktitle: "IEEE International Conference on Robotics and Automation (ICRA)"
+  year: 2026
+  arxiv: "https://arxiv.org/abs/2510.22680"
+  note: "*to appear*"
+
 - key: coxq
   title: "Off-Policy Safe Reinforcement Learning with Cost-Constrained Optimistic Exploration"
   authors: G. Li, M. T. J. Spaan, J. F. P. Kooij
