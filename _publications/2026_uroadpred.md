@@ -6,6 +6,7 @@ authors: S. K, Manchingal, A. Amaritei, M. Gohad, M. Sultana, J. F. P. Kooij, F.
 booktitle: IEEE International Conference on Robotics and Automation (ICRA)
 key: uroadpred
 note: '*to appear*'
+screenshot: files/publications/uroadpred.jpg
 title: 'Uncertainty-Aware Autonomous Vehicles: Predicting the Road Ahead'
 year: 2026
 ---
