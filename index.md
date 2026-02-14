@@ -16,12 +16,14 @@ I work on multi-modal environment perception for intelligent vehicles, and mostl
 My research applies deep learning and probabilistic models to automatically detect objects and predict traffic situations from multi-modal data, collected with on-vehicle sensors. Most of my research therefore relates to Computer Vision, but also addresses other sensing modalities, such as Lidar, Radar and Acoustics.
 To understand the environment, the autonomous vehicle needs to create useful representations of its environment, detect and identify dynamic and static obstacles, self-localize itself, and using all sensor information to anticipate future events. Applications include anticipating Vulnerable Road User (VRU) behaviour, path prediction, self-localizing the vehicle using satellite images, and fusing 3D depth and 2D image data for improved object detection.
 
-# Publications
+# Recent publications
 
-You can find an up-to-date list on my [Google Scholar profile](https://scholar.google.nl/citations?user=Uq5KrMoAAAAJ&hl=en).<br/>
+Below are publications from recent years.
+A more complete list can be found on the [Publications]({%link publications.md %}) page,
+and on my [Google Scholar profile](https://scholar.google.nl/citations?user=Uq5KrMoAAAAJ&hl=en).<br/>
 <a class="btn btn--info" onclick="$('.screenshot').toggle()" ><i class="fas fa-images" aria-hidden="true"></i> Toggle screenshots</a>
 
-{% assign pubs_by_year = site.publications | group_by: "year" | sort: "name" | reverse %}
+{% assign pubs_by_year = site.publications | group_by: "year" | sort: "name" | reverse % | slice: 0, 2}
 {% for y in pubs_by_year %}
 {% assign currentyear = y.name %}
 ## {{currentyear}}
