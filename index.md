@@ -23,7 +23,7 @@ A more complete list can be found on the [Publications]({%link publications.md %
 and on my [Google Scholar profile](https://scholar.google.nl/citations?user=Uq5KrMoAAAAJ&hl=en).<br/>
 <a class="btn btn--info" onclick="$('.screenshot').toggle()" ><i class="fas fa-images" aria-hidden="true"></i> Toggle screenshots</a>
 
-{% assign pubs_by_year = site.publications | group_by: "year" | sort: "name" | reverse % | slice: 0, 2}
+{% assign pubs_by_year = site.publications | group_by: "year" | sort: "name" | reverse | slice: 0, 2 %}
 {% for y in pubs_by_year %}
 {% assign currentyear = y.name %}
 ## {{currentyear}}
@@ -34,3 +34,5 @@ and on my [Google Scholar profile](https://scholar.google.nl/citations?user=Uq5K
   {%- if pub.screenshot -%}<br/>[<img class="screenshot" src='../{{pub.screenshot}}' width="200px" alt="{{pub.title}}"/>](../{{pub.screenshot}}){%- endif -%}
 {% endfor %}
 {% endfor %}
+
+List continues on my [Publications]({%link publications.md %}) page.
