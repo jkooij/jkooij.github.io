@@ -12,13 +12,12 @@ I am the current Director of Studies and Coordinator of the [Master Robotics](ht
 Please direct any questions about the programme to `Coordinator-MSc-Ro` at `tudelft.nl`.
 
 ## Teaching
-
 Course content is available for enrolled students via TU Delft's Brightspace environment.
 
-## Current
+### Current courses
 - RO47003 "Robot Software Practicals" (2017 - on going)
 
-## Past courses
+### Past courses
 - RO47002 "Machine Learning for Robotics" (2020 - 2024)
 - ME47030 "3D Robot Vision" (2016 - 2019)
 - ME41105 "Intelligent Vehicles" (2016 - 2019)

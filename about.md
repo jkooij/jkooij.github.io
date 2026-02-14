@@ -18,7 +18,7 @@ To understand the environment, the autonomous vehicle needs to create useful rep
 
 ## Past projects
 
-- "Epistemic AI (E-pi), EU Horizon 2020 FET Open, 2021-2026
+- "Epistemic AI (E-pi)", EU Horizon 2020 FET Open, 2021-2026
 - "Efficient Deep Learning (EDL)", NWO Perspectief, 2018-2024
 - "SafeVRU", STW HTSM 2015, 2016-2020
 - "i-CAVE", STW Perspectief 
