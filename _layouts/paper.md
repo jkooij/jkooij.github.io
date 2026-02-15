@@ -24,7 +24,7 @@ https://github.com/jekyll/jekyll/issues/6166#issuecomment-322771527
 ```bibtex
 @article{ {{- page.key -}} ,
     title={%raw%}{{{%endraw%} {{- page.title -}} {%raw%}}}{%endraw%},
-    authors={ {{- page.authors | split: ", " | join: " and " -}} },
+    author={ {{- page.authors | split: ", " | join: " and " -}} },
     journal={ {{- page.journal -}} },
     volume={ {{- page.volume -}} },
     number={ {{- page.number -}} },
