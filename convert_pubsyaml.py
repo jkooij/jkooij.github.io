@@ -52,17 +52,19 @@ fields = [
 def pub_to_bibtex(pub):
     if 'journal' in pub:
         pubtype = 'article'
-        fields = ('title', 'author', 'journal', 'volume', 'number', 'pages', 'year', 'publisher', 'puburl', 'doi')
+        fields = ('title', 'authors', 'journal', 'volume', 'number', 'pages', 'year', 'publisher', 'puburl', 'doi')
     else:
         pubtype = 'inproceedings'
-        fields = ('title', 'author', 'booktitle', 'pages', 'year', 'publisher', 'puburl', 'doi')
+        fields = ('title', 'authors', 'booktitle', 'pages', 'year', 'publisher', 'puburl', 'doi')
 
     bibtex = '@' + pubtype + '{' + pub['key'] + ',\n'
     for field in fields:
         if not field in pub: continue
         value = pub[field]
         if field == 'title':
-            value = '{' + value + '}'
+            value = '{' + str(value) + '}'
+        if field == 'authors':
+            field = 'author'
         value = str(value)
         bibtex += '    ' + field + '={' + value + '},\n'
     bibtex += '}\n'
