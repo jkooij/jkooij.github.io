@@ -1,3 +1,10 @@
+- key: satree
+  title: "SATree: Structure-Aware Tree Instance Segmentation from 3D LiDAR Point Clouds"
+  authors: S. Du, J. Stoter, J.F.P. Kooij, L. Nan
+  booktitle: "Urban Forestry & Urban Greening"
+  year: 2026
+  note: "*to appear*"
+
 - key: uroadpred
   title: "Uncertainty-Aware Autonomous Vehicles: Predicting the Road Ahead"
   authors: S. K, Manchingal, A. Amaritei, M. Gohad, M. Sultana, J. F. P. Kooij, F. Cuzzolin, A. Bradley
