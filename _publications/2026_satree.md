@@ -6,6 +6,7 @@ journal: Urban Forestry & Urban Greening
 key: satree
 pages: 129414
 puburl: https://www.sciencedirect.com/science/article/pii/S1618866726001548
+screenshot: files/publications/satree.jpg
 title: 'SATree: Structure-aware tree instance segmentation from 3D LiDAR point clouds'
 volume: 120
 year: 2026
