@@ -14,16 +14,14 @@
   booktitle: "IEEE International Conference on Robotics and Automation (ICRA)"
   year: 2026
   arxiv: "https://arxiv.org/abs/2510.22680"
-  note: "*to appear*"
 
 - key: coxq
-  title: "Off-Policy Safe Reinforcement Learning with Cost-Constrained Optimistic Exploration"
+  title: "Off-Policy Safe Reinforcement Learning with Constrained Optimistic Exploration"
   authors: G. Li, M. T. J. Spaan, J. F. P. Kooij
   booktitle: "International Conference on Learning Representations (ICLR)"
   arxiv: "https://arxiv.org/abs/2603.23889"
   code: "https://github.com/RomainLITUD/COXQ/"
   year: 2026
-  note: "*to appear*"
 
 - key: asyncbev
   title: "AsyncBEV: Cross-modal flow alignment in Asynchronous 3D Object Detection"
