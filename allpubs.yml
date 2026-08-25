@@ -1,3 +1,11 @@
+- key: opencvl
+  title: "OpenCVL: An Open, Diverse, and Large-Scale Dataset for Fine-Grained Cross-View Localization"
+  authors: Z. Xia, M. Zaffar, J. Fu, A. Alahi, J.F.P. Kooij
+  booktitle: "European Conference on Computer Vision (ECCV)"
+  year: 2026
+  project: "https://open-cvl.github.io"
+  note: "*spotlight*"
+
 - key: tokengraph3d
   title: "Emergent 3D Instance Segmentation from Self-Supervised Point Transformers"
   authors: T. Lentsch, S. Montiel-Marín, H. Caesar, J.F.P. Kooij
