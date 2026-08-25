@@ -4,7 +4,7 @@
   booktitle: "European Conference on Computer Vision (ECCV)"
   year: 2026
   project: "https://open-cvl.github.io"
-  note: "*spotlight*"
+  note: "✨ spotlight"
 
 - key: tokengraph3d
   title: "Emergent 3D Instance Segmentation from Self-Supervised Point Transformers"
@@ -13,7 +13,7 @@
   year: 2026
   arxiv: "https://arxiv.org/abs/2608.15796"
   github: "https://github.com/TedLentsch/TokenGraph3D"
-  note: "*oral* at the ECCV 2026 DriveX Workshop"
+  note: "✨ oral at the ECCV 2026 DriveX Workshop"
   puburl: "https://drivex-workshop.github.io/eccv2026/"
 
 - key: satree
@@ -127,7 +127,7 @@
   booktitle: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
   year: 2024
   pages: 17743-17753
-  note: "*Poster Highlight* (top 15% of accepted papers)"
+  note: "✨ poster highlight (top 15% of accepted papers)"
   code: "https://github.com/tudelft-iv/SUE"
   arxiv: "https://arxiv.org/abs/2404.00546"
   puburl: "https://openaccess.thecvf.com/content/CVPR2024/html/Zaffar_On_the_Estimation_of_Image-matching_Uncertainty_in_Visual_Place_Recognition_CVPR_2024_paper.html"
@@ -178,7 +178,7 @@
   authors: I. Roldan, A. Palffy, J.F.P. Kooij, D.M. Gavrila, F. Fioranelli, A. Yaravoy
   booktitle: IEEE Radar Conference
   year: 2024
-  note: "*received Best Student Paper award*"
+  note: "✨ best student paper award"
   arxiv: "https://arxiv.org/abs/2402.12970"
 
 - key: muviecast
@@ -412,7 +412,7 @@
   pages: "1-8"
   year: 2019
   doi: 10.1109/AVSS.2019.8909838
-  note: "oral"
+  note: "✨ oral"
 
 - key: cyclistpathprediction
   title: "Context-Based Cyclist Path Prediction Using Recurrent Neural Networks"
@@ -421,7 +421,7 @@
   pages: "824-830"
   year: 2019
   doi: "10.1109/IVS.2019.8813889 "
-  note: "oral"
+  note: "✨ oral"
 
 - key: safevru
   title: "SafeVRU: A Research Platform for the Interaction of Self-Driving Vehicles with Vulnerable Road Users"
