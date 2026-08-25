@@ -4,7 +4,7 @@
   booktitle: "European Conference on Computer Vision (ECCV)"
   year: 2026
   project: "https://open-cvl.github.io"
-  note: "✨ spotlight"
+  note: "✨ spotlight (top 6% of accepted papers)"
 
 - key: tokengraph3d
   title: "Emergent 3D Instance Segmentation from Self-Supervised Point Transformers"
