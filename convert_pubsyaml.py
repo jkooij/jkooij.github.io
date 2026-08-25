@@ -11,7 +11,7 @@ screenshot_path_patterns = (
 )
 
 # load yaml file
-with open(inp_path, 'r') as file:
+with open(inp_path, 'r', encoding='utf-8') as file:
     pubs = yaml.load(file, Loader=yaml.Loader)
 
 # add ordering field to publications, as they appear in the souce yml file
@@ -117,7 +117,7 @@ def pub_to_markdown_page(pub):
 for pub in reversed(pubs):
     # create file content
     content = '---\n'
-    content += yaml.dump(pub)
+    content += yaml.dump(pub, allow_unicode=True)
     content += '---\n'
     content += '\n'
     #content += pub_to_markdown_page(pub)
@@ -126,7 +126,7 @@ for pub in reversed(pubs):
     out_path = out_dir + '{year}_{key}.md'.format(**pub)
     print(out_path)
 
-    with open(out_path, 'w') as file:
+    with open(out_path, 'w', encoding='utf-8') as file:
         file.write(content)
 
 print(f'Converted {len(pubs)} publications')
