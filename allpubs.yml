@@ -1,3 +1,13 @@
+- key: tokengraph3d
+  title: "Emergent 3D Instance Segmentation from Self-Supervised Point Transformers"
+  authors: T. Lentsch, S. Montiel-Marín, H. Caesar, J.F.P. Kooij
+  booktitle: "European Conference on Computer Vision (ECCV) Workshops"
+  year: 2026
+  arxiv: "https://arxiv.org/abs/2608.15796"
+  github: "https://github.com/TedLentsch/TokenGraph3D"
+  note: "*oral* at the ECCV 2026 DriveX Workshop"
+  puburl: "https://drivex-workshop.github.io/eccv2026/"
+
 - key: satree
   title: "SATree: Structure-aware tree instance segmentation from 3D LiDAR point clouds"
   authors: S. Du, J. Stoter, J.F.P. Kooij, L. Nan
@@ -29,7 +39,6 @@
   booktitle: "International Conference on Learning Representations (ICLR)"
   year: 2026
   arxiv: "https://arxiv.org/abs/2601.12994"
-  note: "*to appear*"
 
 - key: neuseditor
   title: "NeuSEditor: From Multi-View Images to Text-Guided Neural Surface Edits"
@@ -39,7 +48,6 @@
   arxiv: "https://arxiv.org/abs/2505.10827"
   project: "https://neuseditor.github.io/"
   code: "https://github.com/Mirmix/neuseditor"
-  note: "*to appear*"
  
 - key: rsf
   title: "The Overlooked Value of Test-time Reference Sets in Visual Place Recognition"
