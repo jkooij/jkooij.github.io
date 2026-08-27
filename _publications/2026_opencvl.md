@@ -1,5 +1,6 @@
 ---
 _order: 60
+arxiv: https://arxiv.org/abs/2608.25274
 authors: Z. Xia, M. Zaffar, J. Fu, A. Alahi, J.F.P. Kooij
 booktitle: European Conference on Computer Vision (ECCV)
 key: opencvl
