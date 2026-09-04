@@ -28,7 +28,8 @@ To understand the environment, the autonomous vehicle needs to create useful rep
 - "CASSANDRA: Context-Aware SenSing for AggressioN Detection and Risk Assessment", NWO, 2005-2010
 
 ### Workshops
-- [Trust AD](https://trust-ad.github.io/) at IEEE Intelligent Vehicles Symposium.
+- [How to Build Effective World Models for Embodied AI](https://eccv26wmeai.github.io/) at the European Conference on Computer Vision (ECCV) 2026.
+- [Trust AD](https://trust-ad.github.io/) at IEEE Intelligent Vehicles Symposium 2025.
 - [Unsupervised Learning for Automated Driving (ULAD) workshop 2022](http://ulad-workshop.com) at the IEEE Intelligent Vehicles Symposium, [ULAD 2019](http://intelligent-vehicles.org/ulad-2019/), [ULAD 2020](http://intellgent-vehicles.org/ulad-2020/).
 
 ### Past affiliations
