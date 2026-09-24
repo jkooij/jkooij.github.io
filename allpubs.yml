@@ -1,3 +1,10 @@
+- key: rvloss
+  title: "RVLoss: Runoff Vote Loss for Self-Supervised LiDAR Scene Flow Estimation"
+  authors: S. Wang, L. Nan, J.F.P. Kooij, H. Caesar, Y. Lin
+  booktitle: "Neural Information Processing Systems (NeurIPS)"
+  year: 2026
+  note: "to appear"
+
 - key: opencvl
   title: "OpenCVL: An Open, Diverse, and Large-Scale Dataset for Fine-Grained Cross-View Localization"
   authors: Z. Xia, M. Zaffar, J. Fu, A. Alahi, J.F.P. Kooij
