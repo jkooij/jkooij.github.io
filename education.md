@@ -15,7 +15,7 @@ Please direct any questions about the programme to `Coordinator-MSc-Ro` at `tude
 Course content is available for enrolled students via TU Delft's Brightspace environment.
 
 ### Current courses
-- RO47003 "Robot Software Practicals" (2017 - on going)
+- RO47003 "Robot Software Practicals" (2017 - ongoing)
 
 ### Past courses
 - RO47002 "Machine Learning for Robotics" (2020 - 2024)
