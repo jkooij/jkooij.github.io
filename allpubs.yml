@@ -4,7 +4,7 @@
   booktitle: "Neural Information Processing Systems (NeurIPS)"
   year: 2026
   arxiv: "https://arxiv.org/abs/2608.18864"
-  github: "https://github.com/tudelft-iv/RVLoss"
+  code: "https://github.com/tudelft-iv/RVLoss"
   note: "to appear"
 
 - key: opencvl
@@ -22,7 +22,7 @@
   booktitle: "European Conference on Computer Vision (ECCV) Workshops"
   year: 2026
   arxiv: "https://arxiv.org/abs/2608.15796"
-  github: "https://github.com/TedLentsch/TokenGraph3D"
+  code: "https://github.com/TedLentsch/TokenGraph3D"
   note: "✨ Oral at the ECCV 2026 DriveX Workshop, 🏆 Best Paper Runner-Up Award at DriveX"
   puburl: "https://drivex-workshop.github.io/eccv2026/"
 

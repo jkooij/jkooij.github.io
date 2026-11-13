@@ -3,7 +3,7 @@ _order: 59
 arxiv: https://arxiv.org/abs/2608.15796
 authors: T. Lentsch, S. Montiel-Marín, H. Caesar, J.F.P. Kooij
 booktitle: European Conference on Computer Vision (ECCV) Workshops
-github: https://github.com/TedLentsch/TokenGraph3D
+code: https://github.com/TedLentsch/TokenGraph3D
 key: tokengraph3d
 note: ✨ Oral at the ECCV 2026 DriveX Workshop, 🏆 Best Paper Runner-Up Award at DriveX
 puburl: https://drivex-workshop.github.io/eccv2026/
