@@ -3,6 +3,8 @@
   authors: S. Wang, L. Nan, J.F.P. Kooij, H. Caesar, Y. Lin
   booktitle: "Neural Information Processing Systems (NeurIPS)"
   year: 2026
+  arxiv: "https://arxiv.org/abs/2608.18864"
+  github: "https://github.com/tudelft-iv/RVLoss"
   note: "to appear"
 
 - key: opencvl
